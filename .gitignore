@@ -1,0 +1,55 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/junction-frontend/node_modules
+/junction-frontend/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/junction-frontend/coverage
+
+# next.js
+/junction-frontend/.next/
+/junction-frontend/out/
+
+# production
+/junction-frontend/build
+
+# misc
+/junction-frontend/.DS_Store
+/junction-frontend/*.pem
+
+# debug
+/junction-frontend/npm-debug.log*
+/junction-frontend/yarn-debug.log*
+/junction-frontend/yarn-error.log*
+/junction-frontend/.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+/junction-frontend/.env*
+
+# vercel
+/junction-frontend/.vercel
+
+# typescript
+/junction-frontend/*.tsbuildinfo
+/junction-frontend/next-env.d.ts
+
+
+
+
+# Byte-compiled / optimized / DLL files
+/junction-apis/__pycache__/*.py[cod]*$py.class
+
+# Virtual environments
+
+/junction-apis/.venv
+/junction-apis/venv/
+/junction-apis/ENV/
+
+/junction-apis/app/services/data

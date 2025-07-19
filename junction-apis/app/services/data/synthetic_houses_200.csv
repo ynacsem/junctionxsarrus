@@ -1,0 +1,201 @@
+﻿property_id,location,price_DZD,area,property_type,rooms,schools_nearby,hospitals_nearby,parks_nearby,public_transport_score
+H0001,Medea,19537558,232,apartment,2,2,2,0,2
+H0002,Djanet,20434735,83,house,6,2,1,0,6
+H0003,El Tarf,24757438,215,house,6,2,1,2,3
+H0004,Laghouat,20983146,209,apartment,6,1,0,0,3
+H0005,Djelfa,21958973,125,villa,6,3,2,2,3
+H0006,Mila,24901011,236,duplex,4,3,0,1,1
+H0007,Tebessa,4239484,138,apartment,6,1,2,2,1
+H0008,Guelma,11328618,100,duplex,4,2,2,1,1
+H0009,Constantine,25107586,148,villa,5,3,1,0,8
+H0010,Chlef,22540469,238,apartment,1,2,1,1,10
+H0011,Sidi Bel Abbes,10897800,54,house,3,2,1,0,8
+H0012,Biskra,22916557,166,studio,1,1,0,2,9
+H0013,Bordj Badji Mokhtar,23241213,204,apartment,4,2,1,0,5
+H0014,Guelma,6645437,112,apartment,3,2,2,0,2
+H0015,Tiaret,25916506,250,duplex,3,3,2,2,6
+H0016,Tipaza,21726928,144,studio,3,3,0,0,7
+H0017,Tindouf,6162796,182,studio,6,2,2,1,6
+H0018,Bejaia,4440922,147,duplex,5,3,2,2,7
+H0019,Khenchela,13046980,186,apartment,2,1,1,2,9
+H0020,Bouira,21463468,70,studio,5,3,1,2,7
+H0021,Boumerdes,6664855,117,apartment,3,0,1,1,10
+H0022,Algiers,27236279,170,apartment,7,3,0,2,7
+H0023,Guelma,22970205,79,duplex,5,0,0,0,1
+H0024,Ouled Djellal,25412729,222,duplex,7,2,0,1,5
+H0025,El Menia,15309581,74,apartment,4,2,0,2,7
+H0026,Saida,27499243,72,studio,7,1,2,1,9
+H0027,Blida,27711169,236,apartment,6,1,0,1,7
+H0028,El Tarf,11664717,133,studio,8,0,0,1,1
+H0029,Skikda,12555162,173,studio,4,2,2,1,1
+H0030,Batna,25838531,212,studio,3,3,1,0,6
+H0031,Oum El Bouaghi,26622135,204,studio,1,0,1,2,4
+H0032,Biskra,8559760,73,studio,1,2,0,0,4
+H0033,Ain Defla,27841657,233,house,8,3,2,0,10
+H0034,Beni Abbes,4627334,89,apartment,4,1,0,2,9
+H0035,Batna,16181565,177,house,3,2,2,0,5
+H0036,Chlef,21050864,246,house,2,2,0,0,4
+H0037,Biskra,14086591,78,house,4,2,2,0,1
+H0038,Souk Ahras,20250781,183,villa,7,3,1,1,10
+H0039,Bordj Bou Arreridj,6996661,232,studio,6,3,0,1,5
+H0040,In Salah,25182729,170,house,2,0,0,2,1
+H0041,Boumerdes,15979635,187,duplex,4,1,0,2,1
+H0042,Skikda,18512417,151,duplex,4,1,1,2,9
+H0043,Timimoun,8090882,153,house,5,0,2,1,5
+H0044,Tebessa,17057070,190,villa,8,3,0,0,3
+H0045,Ain Temouchent,10037386,73,house,4,3,2,2,10
+H0046,Jijel,6014369,184,house,7,0,0,0,8
+H0047,El Mghair,4027706,158,villa,7,3,1,0,5
+H0048,El Mghair,29351464,148,apartment,5,1,1,2,8
+H0049,Tissemsilt,18141463,102,duplex,2,3,0,0,5
+H0050,Annaba,13760727,177,apartment,4,0,0,2,5
+H0051,Biskra,23762157,87,studio,3,2,1,0,3
+H0052,Tamanrasset,15489699,243,studio,2,1,0,1,7
+H0053,Batna,19499712,59,apartment,5,2,2,0,10
+H0054,Souk Ahras,28980295,204,studio,3,0,2,0,8
+H0055,Ouargla,17473912,183,duplex,5,0,2,0,9
+H0056,Guelma,8257224,82,duplex,8,1,2,2,8
+H0057,Laghouat,18708263,135,duplex,7,3,1,1,6
+H0058,Illizi,11950316,218,studio,7,2,0,2,6
+H0059,MSila,25311515,96,house,4,2,1,1,2
+H0060,Algiers,9216453,97,duplex,7,0,0,1,8
+H0061,In Salah,7639638,141,house,7,3,1,1,8
+H0062,Bejaia,24828593,186,duplex,3,0,0,0,10
+H0063,Mascara,28473776,207,apartment,6,2,0,2,5
+H0064,Constantine,14972635,238,apartment,4,3,1,0,8
+H0065,Guelma,29863013,139,villa,7,3,1,0,9
+H0066,Tindouf,28743401,197,duplex,7,2,2,2,3
+H0067,Medea,27755578,150,house,2,2,2,0,4
+H0068,Mila,9494272,40,studio,6,0,2,1,2
+H0069,Saida,12091472,248,villa,4,1,2,0,2
+H0070,Annaba,18988837,163,apartment,2,0,0,1,7
+H0071,Bordj Bou Arreridj,7779969,105,villa,5,1,1,2,1
+H0072,Setif,22144373,41,apartment,1,2,0,2,1
+H0073,Bechar,14125247,106,studio,1,0,0,2,5
+H0074,Tebessa,25531552,191,villa,3,1,1,1,3
+H0075,El Oued,27617004,207,apartment,8,0,0,1,7
+H0076,Tindouf,6079828,180,villa,7,1,2,2,9
+H0077,Djanet,14338649,224,studio,6,0,2,2,1
+H0078,Timimoun,12517160,140,studio,3,0,2,1,7
+H0079,In Salah,26607436,144,villa,7,0,1,0,2
+H0080,Biskra,10856345,203,apartment,4,3,1,2,5
+H0081,Skikda,19367552,65,studio,2,0,1,2,2
+H0082,Mascara,11728408,229,house,7,2,0,2,3
+H0083,Laghouat,26906854,239,apartment,1,2,1,2,1
+H0084,El Oued,15642273,233,house,1,1,0,1,5
+H0085,Tindouf,7735583,218,apartment,5,1,1,1,5
+H0086,Djanet,17432280,107,studio,2,2,1,1,7
+H0087,Boumerdes,21396133,249,apartment,4,0,1,2,1
+H0088,Naama,23981510,232,studio,3,3,2,1,1
+H0089,Constantine,7280396,236,villa,8,2,2,1,6
+H0090,Sidi Bel Abbes,28623755,79,house,3,1,2,1,5
+H0091,Boumerdes,12948306,72,house,7,2,2,1,3
+H0092,Medea,27595431,99,villa,4,0,0,2,7
+H0093,Bechar,29731269,134,apartment,8,2,2,1,7
+H0094,Bejaia,21627517,79,house,3,1,0,2,7
+H0095,Ain Defla,21105663,192,duplex,4,3,1,1,6
+H0096,Ouargla,9178154,203,studio,8,1,2,1,4
+H0097,Blida,25677564,169,apartment,1,1,2,0,9
+H0098,Ouled Djellal,8677087,70,duplex,8,2,0,2,8
+H0099,Tindouf,14129357,70,villa,1,1,2,1,6
+H0100,MSila,21359250,82,house,3,0,0,1,1
+H0101,El Menia,27298265,101,house,6,3,1,2,10
+H0102,Oran,12465133,121,villa,3,2,1,0,9
+H0103,El Menia,14634328,114,apartment,6,1,0,1,5
+H0104,Bechar,6491034,179,villa,4,0,1,1,6
+H0105,Skikda,21544577,208,villa,2,0,0,1,8
+H0106,Ouargla,18206611,62,studio,6,0,1,0,9
+H0107,Constantine,21040300,154,studio,5,0,0,2,3
+H0108,MSila,5404310,68,studio,6,2,1,2,5
+H0109,Tizi Ouzou,13773466,217,studio,3,0,0,0,3
+H0110,Bordj Bou Arreridj,17967735,42,duplex,2,0,1,0,10
+H0111,Ain Defla,28974544,52,house,4,2,1,2,7
+H0112,Oum El Bouaghi,10050312,47,apartment,1,0,0,1,4
+H0113,Mila,19232255,102,apartment,6,2,2,2,1
+H0114,Beni Abbes,14067319,41,apartment,1,0,1,2,10
+H0115,Adrar,23185045,105,villa,1,1,0,1,4
+H0116,Blida,20223145,160,duplex,5,2,1,0,1
+H0117,Jijel,23720175,156,duplex,1,0,2,0,9
+H0118,Oum El Bouaghi,14541743,53,studio,4,2,2,0,6
+H0119,El Menia,25068869,116,house,1,3,1,1,1
+H0120,Touggourt,18279181,90,house,4,1,0,1,10
+H0121,Mascara,13582878,105,studio,8,2,1,0,5
+H0122,MSila,8821411,135,apartment,8,3,2,1,7
+H0123,Tebessa,10931014,211,house,6,1,0,2,9
+H0124,Bouira,21987418,224,duplex,4,2,2,0,1
+H0125,Chlef,7554534,209,apartment,5,1,2,2,7
+H0126,El Oued,4956589,65,house,2,1,0,0,7
+H0127,Laghouat,9101311,194,apartment,4,2,1,0,8
+H0128,Tipaza,6941286,66,duplex,1,2,1,0,10
+H0129,Guelma,19071017,202,house,5,0,2,2,7
+H0130,Ain Defla,28533079,183,house,4,1,2,0,2
+H0131,Khenchela,8063786,249,house,3,2,1,2,9
+H0132,El Bayadh,25797026,241,villa,8,3,0,1,7
+H0133,Relizane,17992018,188,studio,3,3,1,1,4
+H0134,Jijel,25106183,161,studio,5,3,1,2,4
+H0135,Constantine,12246674,145,apartment,8,3,0,2,10
+H0136,Souk Ahras,17779376,50,villa,4,2,2,1,9
+H0137,MSila,20225757,92,studio,8,1,0,2,8
+H0138,Biskra,12728263,245,studio,8,2,0,1,8
+H0139,Skikda,13019343,164,studio,5,0,1,2,9
+H0140,Touggourt,16767130,95,duplex,6,3,0,1,8
+H0141,Mascara,14607284,244,studio,4,0,2,1,4
+H0142,Jijel,20945175,132,studio,3,2,0,2,2
+H0143,El Bayadh,19173552,227,apartment,4,2,2,2,9
+H0144,Ghardaia,29332968,72,house,8,3,0,1,8
+H0145,Mascara,5832673,116,duplex,4,1,2,2,8
+H0146,Saida,19003864,187,villa,5,0,1,0,4
+H0147,Relizane,27671686,70,studio,6,1,2,2,5
+H0148,Skikda,4963564,146,villa,6,3,0,0,4
+H0149,Timimoun,16255578,185,apartment,2,1,1,1,7
+H0150,Bejaia,5620704,100,studio,3,3,1,1,2
+H0151,El Mghair,6293255,201,duplex,5,3,1,1,4
+H0152,Khenchela,23343646,226,duplex,7,0,1,0,8
+H0153,Oum El Bouaghi,21663748,74,house,2,3,1,2,3
+H0154,Mostaganem,13084618,128,apartment,1,1,2,0,1
+H0155,Ain Temouchent,28180554,94,apartment,1,2,2,2,8
+H0156,Sidi Bel Abbes,24152720,206,duplex,1,3,1,1,9
+H0157,Constantine,26666644,101,duplex,2,0,0,1,2
+H0158,Setif,9555482,44,villa,8,1,2,1,5
+H0159,Tebessa,13188120,134,villa,1,1,1,2,8
+H0160,Tlemcen,18482861,100,house,4,2,2,0,9
+H0161,Tebessa,25544617,184,house,2,3,1,0,8
+H0162,Mostaganem,15836067,245,duplex,8,3,1,0,2
+H0163,Mila,6987095,41,apartment,1,0,0,1,4
+H0164,Illizi,19079062,181,studio,8,1,0,2,3
+H0165,Bechar,25405096,119,studio,7,1,0,2,7
+H0166,Tiaret,11427279,135,duplex,4,3,0,1,10
+H0167,Guelma,23769303,107,apartment,4,2,0,2,8
+H0168,Djelfa,9517366,102,studio,7,3,1,0,7
+H0169,Oran,6332105,120,apartment,5,2,2,0,7
+H0170,Touggourt,10841706,73,house,3,3,0,1,6
+H0171,Ouled Djellal,29787063,105,studio,6,0,2,0,10
+H0172,El Oued,24165606,50,studio,5,0,0,1,10
+H0173,Bechar,20956211,164,studio,1,0,0,1,8
+H0174,Bordj Badji Mokhtar,25228708,200,house,6,3,2,0,2
+H0175,Djelfa,26357280,146,apartment,3,0,2,2,7
+H0176,Saida,4434851,45,apartment,1,2,1,2,2
+H0177,El Bayadh,13324005,82,duplex,5,0,2,1,7
+H0178,Ain Temouchent,4343159,70,villa,4,1,0,0,5
+H0179,Annaba,14635642,241,apartment,4,2,1,0,1
+H0180,Tebessa,12423567,177,apartment,5,0,1,2,7
+H0181,Ain Defla,9524719,109,house,4,3,0,0,9
+H0182,In Salah,28724420,188,house,2,1,0,0,5
+H0183,El Bayadh,8737265,61,villa,2,0,2,1,1
+H0184,Bordj Bou Arreridj,10577473,199,house,8,0,2,1,2
+H0185,Tipaza,23333015,196,villa,2,0,2,1,3
+H0186,Setif,22394830,191,apartment,4,1,1,0,5
+H0187,Tindouf,26277679,202,apartment,1,3,2,1,7
+H0188,El Oued,29668272,58,house,8,1,0,0,7
+H0189,Oum El Bouaghi,4819643,48,house,2,3,0,2,5
+H0190,Ain Temouchent,23332465,183,villa,2,1,0,0,6
+H0191,Illizi,18185546,175,duplex,3,2,1,0,3
+H0192,Oran,13353771,116,villa,1,0,1,1,6
+H0193,Bordj Bou Arreridj,8669812,192,studio,5,3,1,0,1
+H0194,Bejaia,7019382,115,duplex,4,3,0,0,5
+H0195,Mascara,12482715,83,house,8,0,2,0,9
+H0196,Batna,7057613,203,apartment,4,0,0,0,1
+H0197,Bechar,14970291,89,apartment,5,1,0,1,9
+H0198,Mostaganem,13132058,87,house,3,2,1,1,2
+H0199,Bechar,16380635,203,villa,1,3,2,1,7
+H0200,Blida,7331892,132,apartment,8,0,2,1,5

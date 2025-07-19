@@ -1,0 +1,1 @@
+# Database configuration - Sessions, connections, base classes

@@ -1,0 +1,2001 @@
+client_id,preferred_location,min_budget_DZD,max_budget_DZD,min_area,max_area,preferred_property_type,marital_status,has_kids
+a654e9a4,Algiers,6428571,8790058,88,125,duplex,single,False
+037bbd45,Oran,7070859,8724522,86,112,apartment,single,True
+737e47b6,Constantine,6354647,8399905,91,112,villa,married,True
+d449acec,Constantine,6123420,7429420,76,122,apartment,married,True
+979dec90,Tizi Ouzou,6608604,9808843,93,146,duplex,divorced,True
+0a3357b6,Blida,7991825,11904543,98,138,apartment,single,False
+fd252039,Algiers,5438518,7769448,99,127,apartment,married,False
+dae7138e,Oran,5140405,7723324,93,144,duplex,married,True
+fa6d245f,Tizi Ouzou,5187432,6478526,76,126,duplex,married,True
+9e689a5b,Oran,7172801,9602986,75,120,duplex,married,True
+bba7aa62,Constantine,7620859,10062585,96,131,duplex,married,False
+1c75ed9a,Constantine,7190830,8954860,80,134,apartment,divorced,False
+8129faf9,Bejaia,7532825,11250334,96,118,apartment,married,False
+7877cc89,Algiers,6896558,8812067,93,138,duplex,married,False
+143a21cb,Oran,5641225,8600858,76,130,apartment,married,False
+882ecfa1,Algiers,7323587,10138679,94,129,villa,single,True
+16603580,Algiers,6539617,8576560,75,116,apartment,divorced,True
+a4c62dc8,Algiers,7146206,10593147,73,109,apartment,single,False
+79696941,Algiers,5303475,8005924,77,130,villa,single,False
+e59450cb,Algiers,6298901,8027956,93,127,villa,married,True
+9e4e635b,Oran,7367150,8544825,90,128,apartment,single,True
+b97aaf24,Algiers,5742383,8752074,94,138,duplex,divorced,True
+1198a353,Blida,7956146,11125289,88,142,duplex,single,True
+65a85a4a,Blida,6076171,8773757,74,132,apartment,married,False
+adf75229,Bejaia,7609765,9011671,72,103,duplex,married,True
+5446e85d,Bejaia,5636597,7949912,85,141,villa,married,True
+e961ea53,Oran,7432621,10795629,80,117,duplex,married,True
+4e3bdcce,Oran,6554549,10022350,87,108,duplex,single,False
+0e0d3625,Blida,5860345,9823594,74,102,apartment,divorced,True
+23a2dcdc,Tizi Ouzou,5255124,8661966,96,137,duplex,divorced,False
+b244586d,Oran,6707820,9076945,71,106,apartment,divorced,True
+8c3a01c6,Bejaia,7438065,11151392,73,103,duplex,married,True
+3979003e,Constantine,7609431,10682484,94,129,villa,married,False
+2ebed5f7,Constantine,6023191,9047517,71,120,apartment,single,False
+05035bec,Bejaia,7191629,9465414,89,123,villa,married,True
+c02caf38,Blida,7080764,9533304,91,139,apartment,divorced,False
+2c27c679,Algiers,5317045,6940859,90,115,apartment,divorced,False
+f5703440,Constantine,5786594,7442668,90,137,villa,divorced,True
+f235596c,Oran,6621812,9253930,90,137,villa,married,False
+293ffc32,Blida,7433286,10637685,87,140,villa,married,True
+078cef5b,Oran,6247892,9457155,84,128,duplex,single,False
+f865a060,Algiers,5940715,8184012,88,119,apartment,single,False
+6b0badd8,Bejaia,7399779,11337312,74,107,villa,divorced,True
+96dcc3af,Oran,6373442,7801212,73,106,villa,divorced,False
+a4a2dd8e,Constantine,5400572,6799588,90,118,villa,divorced,False
+ae9b3a9a,Oran,5500111,7865277,98,121,apartment,divorced,False
+41169a6e,Bejaia,6372699,9702462,83,119,villa,married,True
+63666cd6,Bejaia,6937599,9076329,75,131,villa,divorced,False
+59533947,Algiers,6349125,9788553,91,116,duplex,married,False
+8ff3f4fe,Bejaia,6164432,7528781,81,134,duplex,married,False
+128f2379,Algiers,6658740,8667087,93,148,apartment,married,False
+dc6ed8b2,Oran,6948524,9407243,78,131,duplex,divorced,True
+0ac018d3,Tizi Ouzou,7483052,9126263,86,141,villa,single,True
+32c99637,Tizi Ouzou,7422507,11256962,97,155,villa,single,False
+2fd82b81,Blida,7537750,8720602,74,106,apartment,single,False
+2fd08d23,Tizi Ouzou,5200817,7095372,84,120,apartment,married,False
+2f1841fc,Oran,6060450,7346808,88,111,villa,single,False
+0e5f1e72,Constantine,5579765,8797114,100,156,apartment,single,False
+ed990f37,Blida,6927348,10461125,87,138,duplex,married,True
+eb4894e7,Constantine,5662004,7098411,79,118,duplex,married,True
+aab30f5b,Oran,7874149,10350562,78,125,apartment,married,True
+8d117f22,Tizi Ouzou,5857594,7973966,99,131,duplex,divorced,False
+d28e085c,Constantine,7895594,10484317,74,111,duplex,married,True
+cde743cd,Constantine,5859854,7146549,100,160,villa,single,False
+43bf785b,Bejaia,7925388,9261977,93,130,villa,single,False
+1be59504,Tizi Ouzou,6934219,9553925,96,130,apartment,divorced,False
+d6cb2d83,Oran,7213088,9296348,74,97,apartment,married,False
+61c7d264,Algiers,5427285,7830559,99,138,villa,married,False
+3455cacd,Blida,6530216,9251244,99,145,duplex,single,True
+0365bd87,Algiers,7108292,9646310,90,148,apartment,single,True
+57ae7a8f,Constantine,5790947,7864143,72,93,apartment,married,True
+048e1c2e,Algiers,6314799,8393059,93,149,apartment,divorced,True
+0dd9de7a,Bejaia,5512512,9205439,89,130,duplex,married,True
+6a82de04,Algiers,6851627,8382034,100,143,duplex,single,False
+25880fe1,Blida,6122884,8621200,93,132,apartment,single,False
+de1b39e3,Blida,5685215,8525103,100,150,duplex,single,True
+ce2d9ff7,Bejaia,6107170,9828342,88,134,villa,single,True
+010311b5,Algiers,7474357,10058844,91,121,villa,divorced,True
+45946b96,Oran,6192499,9560671,90,132,apartment,married,False
+cd68a281,Oran,6525461,7635945,92,132,duplex,married,True
+1efe7493,Algiers,6902993,9144065,83,136,duplex,single,True
+0ed4d89c,Oran,6558739,9230145,87,145,apartment,divorced,True
+ea00d357,Algiers,6538474,9818220,95,131,apartment,single,False
+c3cc17d8,Tizi Ouzou,6042499,9160748,74,110,villa,single,False
+11b1910d,Bejaia,7322352,11197101,92,140,villa,married,False
+65e910c6,Algiers,7956748,9069000,78,116,duplex,single,False
+afe2c6e4,Oran,5471373,8974618,95,154,duplex,single,False
+046f160f,Algiers,5855666,9604807,83,125,apartment,married,False
+226cc4e0,Bejaia,6899015,9130449,100,120,villa,divorced,False
+95154898,Blida,6315389,9800712,71,91,villa,divorced,False
+748f1352,Bejaia,6000410,8469946,97,149,villa,married,False
+10a963a3,Blida,7041350,8405104,80,107,duplex,divorced,False
+bc7717eb,Blida,7074505,10461751,75,134,duplex,divorced,True
+d1d8551e,Constantine,6379284,9877277,71,123,duplex,married,False
+b0f14ca0,Bejaia,6073668,7309521,92,135,apartment,married,True
+3f576d1e,Bejaia,6684963,9783505,71,130,apartment,single,True
+db131a8f,Constantine,5221805,8994965,75,108,villa,married,False
+a0705125,Algiers,7022020,8258561,71,124,villa,single,False
+685e6444,Constantine,6599957,7925418,88,117,apartment,divorced,True
+d78914ca,Tizi Ouzou,7893039,10184504,77,101,duplex,single,True
+7ad18976,Blida,6963238,10294900,79,130,apartment,married,False
+a7365276,Oran,5579867,9470958,81,139,apartment,divorced,True
+c1d59055,Tizi Ouzou,5257030,7677996,76,106,apartment,married,True
+56bba5ea,Oran,5821518,9045285,75,117,apartment,single,True
+669ba633,Algiers,5113758,6995968,87,117,apartment,single,False
+ed1ade44,Constantine,6706882,9526675,79,112,duplex,married,True
+39c7547a,Bejaia,6222029,7473821,95,137,apartment,divorced,True
+09732ae3,Oran,5959373,9455211,90,115,apartment,divorced,False
+7ac81b7c,Algiers,7089481,9411313,79,112,duplex,married,True
+65cf20d1,Algiers,6194076,8156827,91,126,apartment,divorced,False
+d3e3601a,Blida,5871752,8419020,72,132,villa,married,False
+32f36bcc,Constantine,5334738,7416130,89,109,apartment,divorced,True
+f87f6a19,Constantine,5436692,9426638,75,132,apartment,divorced,True
+dd92a87b,Algiers,6191074,7962372,86,116,apartment,single,False
+6a86b0fc,Blida,6875985,8162225,98,118,villa,single,False
+716a951d,Algiers,6896285,9273347,87,107,villa,single,False
+61a6fd94,Oran,6395322,9268508,74,111,apartment,divorced,False
+4f74b2ef,Bejaia,7450675,9648891,98,120,apartment,married,False
+9782f039,Algiers,6116173,9197758,88,130,apartment,divorced,True
+63e21183,Tizi Ouzou,6710110,8245411,81,120,apartment,single,True
+98426c84,Constantine,7304396,11175511,96,132,villa,single,True
+0570bcb0,Algiers,6529936,7982025,99,159,apartment,divorced,True
+58390090,Bejaia,6566489,9180612,100,140,villa,married,False
+0ececa44,Tizi Ouzou,6252614,9189138,79,109,villa,divorced,False
+2f72a91c,Tizi Ouzou,7007029,8865196,87,115,duplex,single,False
+19dffe77,Constantine,5477440,7624564,76,97,villa,married,True
+185b46c4,Algiers,7203172,8622018,88,113,apartment,married,True
+4947c581,Oran,6554764,8777435,70,116,apartment,single,True
+37100254,Oran,5312827,8564642,93,121,apartment,single,True
+f8f7856a,Tizi Ouzou,5923366,9547011,84,132,duplex,married,True
+523c5f6b,Algiers,6360798,9905752,88,117,duplex,divorced,False
+a7861436,Tizi Ouzou,5940664,9883902,78,135,apartment,single,True
+55debbbd,Bejaia,5846292,7711802,95,137,duplex,married,True
+2289dc21,Oran,7067944,9353134,89,110,villa,divorced,True
+7a7f50f1,Bejaia,7900114,8957570,78,128,apartment,married,True
+f70dbee9,Tizi Ouzou,6083583,7902779,86,144,villa,married,False
+314ac0ab,Constantine,7357839,10266045,93,116,apartment,married,True
+96c41354,Bejaia,7531916,10542595,93,128,duplex,single,False
+65275c5a,Blida,5585870,8871455,100,149,villa,single,False
+9ef6d0a4,Tizi Ouzou,5980946,7940843,100,138,apartment,married,False
+3dc9eb64,Constantine,7199576,9053447,82,136,duplex,married,False
+38a7a1e1,Algiers,6556639,9556921,72,129,duplex,divorced,False
+b7f093cd,Oran,5389996,8921900,78,99,duplex,single,False
+df2f09d7,Oran,5345592,8857864,98,128,duplex,single,False
+70717960,Blida,7227504,10514901,84,127,duplex,divorced,True
+d6b43edb,Tizi Ouzou,6094021,7451826,92,144,villa,single,False
+6d849e18,Algiers,6378775,8004638,73,126,apartment,divorced,False
+2afc9445,Algiers,5670464,8238466,88,138,apartment,divorced,True
+efc7de45,Algiers,6304257,7368792,96,124,villa,single,False
+646a8ad1,Oran,5798792,6916002,78,131,apartment,divorced,True
+990a6dad,Tizi Ouzou,5923123,9709933,87,130,villa,married,False
+6caea905,Oran,6882579,10562519,98,155,apartment,single,False
+341d9e73,Bejaia,5151664,6821941,93,149,duplex,single,True
+e384d865,Algiers,7608275,10227612,95,151,duplex,single,True
+1bf7d8e5,Bejaia,5303409,7354827,76,103,villa,single,False
+d6b85fb9,Algiers,5097010,8573913,70,116,duplex,divorced,False
+b66dcda7,Oran,7756295,10614754,98,121,villa,married,True
+5863fee9,Tizi Ouzou,5672218,7408493,84,119,duplex,married,True
+a1ffc347,Tizi Ouzou,5007965,8866535,72,96,villa,married,False
+fa384779,Constantine,7063337,8872988,70,113,villa,divorced,False
+131c08ca,Blida,7365456,10904054,91,118,duplex,single,False
+88236759,Algiers,6381438,9539866,86,111,apartment,married,False
+45d03992,Algiers,5479315,7070597,86,127,apartment,single,False
+2bfe611e,Tizi Ouzou,5592114,8155921,94,126,duplex,single,False
+c0898f42,Algiers,5932722,9641995,98,120,villa,married,True
+b8b4da36,Algiers,7319000,11055158,91,125,villa,single,False
+a2c0d71a,Bejaia,5766356,6907881,81,114,villa,married,True
+37aaba48,Algiers,7473971,10697038,94,149,duplex,married,True
+5731d600,Blida,7548428,11504647,70,103,duplex,single,True
+ac2748b0,Bejaia,7620365,10828751,70,105,apartment,single,False
+fb75425e,Bejaia,7312147,9109250,90,128,villa,divorced,True
+e069c328,Algiers,5377982,8788092,86,127,apartment,single,True
+f52c60b5,Algiers,7920531,11490876,73,107,apartment,single,True
+e705d78a,Constantine,6636076,8692814,99,130,villa,divorced,True
+827bc328,Algiers,6178992,10158382,90,131,villa,married,True
+9364e6ca,Tizi Ouzou,7461588,11105740,83,106,villa,divorced,True
+b585b553,Algiers,5767253,7959922,73,122,villa,single,True
+b34dee6b,Tizi Ouzou,7970222,10120303,100,125,villa,married,True
+82fed96f,Algiers,6966025,10031680,71,121,apartment,single,True
+1bcbcfa3,Blida,5807890,8293923,96,152,duplex,married,True
+02f53e02,Blida,5040135,8260236,100,137,duplex,divorced,True
+a597b962,Tizi Ouzou,6322100,9163025,92,152,apartment,divorced,True
+108cdc7b,Blida,7684241,11448187,81,113,villa,divorced,True
+6ea183a9,Constantine,7973417,10798848,86,120,duplex,married,True
+935b9f42,Oran,6012731,7634567,72,97,apartment,single,True
+4eac9bc5,Algiers,5591372,7440387,77,111,villa,single,True
+ff6535f1,Constantine,7354969,8793405,99,139,duplex,married,True
+45463c69,Bejaia,7931159,9211091,80,121,duplex,married,False
+893b2b5a,Blida,7109579,10559201,97,131,apartment,married,True
+743c916a,Algiers,6244174,7437584,86,146,duplex,married,True
+7617e8e0,Bejaia,5957850,7806189,94,136,apartment,single,True
+85b30899,Constantine,5481985,8243945,72,122,apartment,married,True
+8db6df87,Algiers,6413120,7421915,91,136,villa,married,True
+75e47a5c,Bejaia,6169646,8864151,97,128,apartment,single,False
+b278b49c,Blida,6686181,7968822,80,130,villa,married,False
+ce56ac29,Blida,6401267,7771546,90,140,duplex,single,False
+c78a8054,Constantine,5247607,6436777,84,113,apartment,married,True
+15073556,Algiers,7889587,10329212,81,106,villa,divorced,True
+e2b79bd6,Oran,5553404,8750766,96,136,apartment,single,False
+70eebe07,Bejaia,5594267,8406566,91,132,apartment,married,False
+421c383b,Bejaia,6927174,8192214,86,142,apartment,divorced,False
+4affd0e5,Blida,5915135,7341912,100,125,duplex,married,True
+f1936bbd,Algiers,7894266,11719019,86,116,apartment,single,True
+d047479d,Bejaia,5066237,7849488,93,149,apartment,divorced,False
+748a7399,Blida,7771912,10872799,76,126,duplex,divorced,False
+a12beeaa,Tizi Ouzou,5410176,6725223,87,125,apartment,divorced,False
+329426f4,Bejaia,6003432,7911637,79,102,duplex,single,False
+e59c0790,Algiers,5728093,9020861,80,138,villa,single,False
+8f8a52b5,Blida,5672031,8487316,95,138,apartment,single,False
+83b14db6,Blida,7367852,9213767,85,123,duplex,married,False
+510c5dbb,Bejaia,6949227,8618278,95,139,villa,divorced,False
+8f859677,Algiers,5193742,6475597,79,121,duplex,single,True
+26a28c56,Oran,5956139,7205140,81,123,apartment,married,False
+a6a1f565,Tizi Ouzou,6569545,7931503,88,139,villa,married,True
+9034d8ad,Constantine,6152251,9012406,82,114,duplex,married,False
+0f9022b2,Bejaia,5737929,7382580,88,114,villa,divorced,False
+01e75f09,Oran,7105613,9059297,75,123,apartment,divorced,True
+6939cce9,Bejaia,6042674,7638364,87,111,duplex,divorced,False
+508484d0,Constantine,5322063,8489580,70,108,villa,single,False
+462269cd,Tizi Ouzou,5332778,8345565,86,116,villa,married,True
+3a19d527,Oran,6367149,7741056,70,90,apartment,single,True
+88297362,Blida,7492994,9068214,80,100,villa,divorced,False
+1af77a4a,Oran,5220553,8916851,94,118,villa,married,False
+ce336cc0,Bejaia,6530451,8753037,71,107,villa,single,True
+976dcb5c,Blida,6360788,9896812,99,138,apartment,married,False
+1d561b5c,Algiers,5616161,7360207,71,113,villa,divorced,True
+b7c8207c,Constantine,7873439,10883384,77,101,villa,single,True
+80597832,Constantine,5414527,8216151,84,112,villa,divorced,False
+bdeede96,Bejaia,7928241,9273905,70,90,villa,single,True
+a59e0ab9,Bejaia,6738386,8873747,84,138,villa,married,True
+287a7d67,Oran,7449858,9983573,80,133,duplex,married,False
+ecd63d58,Tizi Ouzou,6541388,10164722,76,96,duplex,married,True
+cec1ffbf,Blida,5346573,7354581,71,95,apartment,divorced,False
+dd36f597,Constantine,7264972,10761525,87,128,duplex,divorced,False
+a9921f0b,Constantine,5460715,7563174,74,107,villa,single,True
+6109660e,Oran,6581847,8489063,100,122,villa,divorced,False
+07ed876b,Algiers,5485033,9291849,96,117,villa,single,False
+c5f8e6ee,Constantine,6767759,8262169,70,92,apartment,single,True
+42e67f5d,Algiers,6402974,7699213,78,111,duplex,single,True
+89f83307,Oran,7191411,8370437,95,119,villa,single,True
+7f523175,Bejaia,5437180,6448022,94,121,apartment,married,True
+4107c168,Constantine,5388687,6762005,80,122,duplex,divorced,False
+f7dec428,Tizi Ouzou,6372338,9860419,74,124,villa,single,True
+a029a2e9,Oran,5053232,8413910,99,136,villa,divorced,False
+4d36b87c,Oran,5381044,6651250,84,107,duplex,divorced,False
+6a18e7b3,Blida,7546367,8879279,74,117,apartment,single,True
+80b61c8a,Constantine,6373837,10281833,84,104,villa,married,True
+6e75df7c,Constantine,7422167,8763313,74,128,duplex,divorced,False
+deaab9e8,Algiers,5365197,6897644,92,132,duplex,divorced,False
+c91edd8b,Blida,6958555,10550811,95,119,villa,married,True
+8417f78b,Blida,5804483,7952205,75,103,villa,single,True
+ac26ad90,Bejaia,5407731,7192040,71,102,apartment,married,False
+75f0c8e8,Oran,6943739,8353218,70,99,villa,married,False
+16597c42,Oran,5367608,7798525,70,126,apartment,single,True
+71f2a031,Oran,7494081,10159583,94,140,apartment,married,True
+43906aa4,Oran,6489574,9999085,94,117,apartment,married,False
+202e6186,Oran,5147718,7919168,95,144,duplex,married,True
+7c3b44a5,Algiers,7793133,9430295,70,129,villa,married,True
+45b8f187,Constantine,5667633,8475372,97,135,apartment,divorced,False
+23a07405,Constantine,6679145,8600066,93,133,duplex,single,True
+180bfc1d,Algiers,5312184,7728343,79,133,villa,divorced,False
+f0a0898d,Oran,7856352,10907370,76,131,duplex,divorced,False
+d494e676,Tizi Ouzou,6373922,7592434,87,128,villa,single,True
+d393cf82,Tizi Ouzou,7470484,9628245,96,146,duplex,single,False
+a70f780d,Constantine,7587174,11041957,76,108,duplex,divorced,True
+fe89756c,Bejaia,6970325,8884075,77,100,duplex,married,False
+83ec9c33,Tizi Ouzou,5803624,9528231,77,108,duplex,divorced,True
+d909d666,Oran,5495815,7879874,79,123,duplex,divorced,False
+ea6e26ae,Constantine,6504313,8068809,96,150,apartment,divorced,False
+57ee1b9d,Algiers,5807897,8006843,76,97,villa,single,False
+b8308a22,Tizi Ouzou,5269827,7839251,83,138,villa,single,True
+0a33b23f,Tizi Ouzou,5152691,6312074,98,122,duplex,divorced,False
+83785d8c,Oran,7989026,9088670,85,112,duplex,single,False
+f5b8095d,Algiers,7781295,10032435,71,102,apartment,divorced,True
+1f2ce746,Blida,6881851,9317511,83,128,villa,single,True
+4a040f87,Algiers,7933583,11185665,95,150,villa,divorced,True
+1949530c,Blida,7507343,10896353,70,108,apartment,divorced,True
+7a313bb3,Constantine,6212169,9654945,89,117,apartment,married,False
+98fe1151,Tizi Ouzou,7897312,10505554,71,101,duplex,divorced,True
+6900d618,Bejaia,6471378,8588163,89,138,villa,divorced,True
+6edc1467,Blida,7221516,10569803,93,120,duplex,married,False
+f02af7c1,Bejaia,5417853,7607441,91,130,apartment,single,True
+befd6900,Constantine,5922948,7004444,75,104,duplex,divorced,True
+fd0d23a3,Bejaia,5819552,7296404,83,127,villa,single,False
+4fba5d90,Tizi Ouzou,5131965,7201476,92,133,duplex,married,False
+40e3bb5d,Tizi Ouzou,6207011,9487334,84,121,villa,divorced,False
+0f70a997,Blida,7017202,9818278,86,125,duplex,single,True
+66ac9829,Tizi Ouzou,5807429,8865550,98,151,villa,divorced,False
+0a7ace5b,Tizi Ouzou,6089493,7352420,94,117,duplex,divorced,False
+8018db96,Algiers,5555144,8401382,84,142,apartment,divorced,False
+8fbd3012,Oran,6205568,8123974,89,126,villa,divorced,False
+cddaedd0,Algiers,5522310,7183767,91,129,villa,divorced,False
+2260bb31,Oran,5477913,8422606,78,118,villa,married,False
+9ebfed7f,Tizi Ouzou,7689323,10529978,71,115,duplex,single,False
+4acd27b6,Blida,7655508,9614593,80,122,duplex,married,False
+b7b8dc68,Blida,6580084,9485523,71,130,duplex,married,False
+7ad789fd,Constantine,5956097,8614508,71,123,villa,divorced,False
+04412bd9,Algiers,7265738,9946726,77,121,villa,married,True
+c83353c0,Constantine,7754814,11470919,100,126,apartment,married,False
+464fae76,Tizi Ouzou,6788158,10039035,80,106,apartment,divorced,False
+2e869473,Constantine,5719946,8777570,77,114,villa,divorced,True
+41f53aa8,Blida,7719865,9655450,89,133,duplex,divorced,True
+329d56a2,Bejaia,7712983,10946584,84,113,apartment,divorced,True
+2c58274b,Constantine,7808551,10915269,91,148,villa,married,False
+894b0e9b,Constantine,6174863,10106071,75,114,villa,divorced,False
+91b81407,Constantine,7493720,9841668,99,128,apartment,divorced,True
+29141b91,Algiers,6694270,10438818,77,132,villa,married,False
+985804e8,Algiers,5725347,7584813,88,121,villa,single,True
+54cde067,Tizi Ouzou,7293460,8950548,98,137,duplex,single,False
+827afc8e,Algiers,7981310,9976036,70,129,duplex,single,True
+1bdcc22c,Blida,7753558,10149742,79,127,villa,single,False
+cd80ac74,Bejaia,7452518,8770972,92,113,apartment,divorced,False
+aa4efcb9,Constantine,5864842,9243071,93,129,duplex,single,False
+c45ccb20,Tizi Ouzou,7378814,8816710,84,131,apartment,married,True
+da91e287,Constantine,6216358,10157981,78,127,duplex,divorced,False
+df5b5404,Tizi Ouzou,7577837,10449517,92,151,apartment,married,False
+281fb451,Tizi Ouzou,7249563,9171217,70,120,apartment,divorced,False
+ba222e8f,Blida,5877124,7939273,82,124,apartment,single,True
+446836b8,Blida,7565544,9631779,88,116,apartment,divorced,False
+ab97d1c0,Tizi Ouzou,7545848,9315005,85,140,villa,single,False
+9f7b27f8,Blida,5803608,8889106,80,116,villa,married,False
+35b071a9,Bejaia,5945189,6980780,80,107,duplex,single,False
+af5cf469,Tizi Ouzou,6784917,10302144,100,121,duplex,divorced,False
+6412822b,Blida,5272719,8521935,83,141,duplex,married,False
+af0cb9b7,Algiers,7785589,9167179,98,129,apartment,married,True
+733d5f56,Algiers,5706614,8181556,79,137,apartment,married,False
+92ced126,Oran,7355382,9522380,71,128,apartment,married,False
+ee3f4818,Algiers,6767824,8097174,82,134,duplex,divorced,True
+182e2dbb,Tizi Ouzou,6952020,8315148,74,125,apartment,single,False
+882677ff,Algiers,6879901,9362383,94,147,apartment,single,True
+b78284e6,Constantine,5279802,7650546,88,130,villa,divorced,False
+ddad264a,Bejaia,7319489,8785336,72,110,duplex,divorced,True
+bae4fb48,Oran,6878102,8392199,94,132,villa,divorced,False
+6f2bd840,Tizi Ouzou,5622755,9108486,98,134,villa,divorced,False
+b4406259,Algiers,5149898,7827252,75,116,apartment,married,False
+53514436,Oran,6009262,8088621,86,136,villa,divorced,False
+4db43f62,Tizi Ouzou,6389420,8630296,86,140,villa,married,True
+a6bed2fb,Oran,7712283,11196220,93,148,apartment,divorced,True
+1efda08b,Tizi Ouzou,7099260,8783306,91,114,villa,married,False
+c34bccb6,Bejaia,6596919,9122482,82,135,apartment,married,False
+756ad33d,Algiers,7625265,9664130,92,116,duplex,married,False
+36854036,Constantine,5366949,7285403,84,125,apartment,married,True
+bfafcf6e,Tizi Ouzou,5882026,7017512,99,137,villa,divorced,True
+d97d1892,Oran,6757509,9377839,73,116,apartment,single,True
+4b93cc9c,Bejaia,6327018,8778946,73,107,apartment,divorced,False
+a33038a5,Tizi Ouzou,7162584,10737533,96,155,apartment,divorced,False
+739ea636,Bejaia,6540095,7570551,89,139,apartment,single,True
+3425aaf9,Oran,5242537,8565197,98,153,villa,single,True
+312aff30,Oran,5273124,8146381,90,114,apartment,married,True
+d03a089e,Oran,7716343,9539589,78,99,duplex,divorced,True
+3b49fce1,Oran,5224001,7583470,75,120,duplex,divorced,False
+7953af65,Oran,5199895,8772753,89,119,villa,divorced,True
+51e0fb0e,Tizi Ouzou,7525258,9538632,97,126,duplex,married,False
+f659c57d,Constantine,7348472,8777616,75,126,apartment,single,True
+4553eca3,Bejaia,6093559,8235679,81,108,duplex,married,False
+b69d8b11,Constantine,7599874,10919014,75,114,villa,divorced,False
+ba619631,Bejaia,5539459,8963142,97,132,apartment,single,False
+1a790c56,Constantine,5228053,7278865,96,144,duplex,single,True
+04133dee,Constantine,7948642,10259795,95,142,villa,divorced,False
+0e7e92f7,Algiers,6778034,10663131,72,116,apartment,married,True
+2afbd8a6,Algiers,6373494,10109348,83,118,villa,divorced,True
+a0fa897c,Oran,6742090,9623842,77,104,apartment,married,False
+5deec935,Constantine,5415313,8083420,88,122,villa,single,True
+ccf84a07,Algiers,6103873,8021895,83,130,villa,single,False
+3a7314a8,Blida,5638837,8431567,100,141,villa,single,False
+3c29df57,Algiers,6683725,8560250,91,127,villa,married,True
+d9284baa,Tizi Ouzou,5735130,9373851,73,103,villa,single,False
+9a7b8f05,Blida,6488920,7832951,99,155,duplex,single,False
+b5b620e8,Bejaia,6497131,7659891,98,123,villa,married,False
+c38dc99a,Blida,7476911,10790561,92,132,duplex,divorced,True
+2379b022,Algiers,7936619,9862610,91,129,apartment,divorced,True
+220ab110,Oran,6138642,9656180,98,122,villa,married,False
+fd99cad3,Blida,5267019,8276545,99,136,duplex,single,False
+c00e54e9,Tizi Ouzou,5305016,6589563,77,103,duplex,married,True
+4e5d4561,Bejaia,6886616,8345692,92,112,duplex,married,True
+f7b899ba,Constantine,6466888,8699861,81,141,apartment,married,True
+7b28326a,Algiers,5699144,8662786,96,142,villa,married,False
+db06c2e7,Tizi Ouzou,7094409,9738539,87,115,apartment,married,False
+35a26c99,Algiers,5002636,6116551,95,127,duplex,divorced,False
+00cdc262,Algiers,6738362,10605984,76,117,apartment,single,True
+6e5f80e3,Constantine,6179054,8216904,74,120,duplex,married,True
+be860448,Blida,6075753,9625478,85,141,villa,married,False
+ad599672,Algiers,7249631,11003850,75,115,duplex,single,True
+2111a8e1,Oran,7654192,8902491,72,99,villa,single,False
+d9179c69,Blida,7073725,10878190,98,140,duplex,married,False
+5b123e4b,Tizi Ouzou,7398193,11316027,75,103,duplex,single,True
+0861a059,Constantine,7425344,10316115,85,126,duplex,single,False
+a0262c0b,Oran,6689819,8017100,91,142,apartment,married,True
+9247e460,Bejaia,7413472,11285588,82,117,duplex,divorced,True
+c8be2d55,Oran,5857147,9040855,87,146,duplex,married,True
+786e843a,Tizi Ouzou,5332673,7603815,92,143,villa,divorced,False
+8c91578f,Constantine,6680801,9683908,99,121,apartment,single,False
+a9404d3a,Oran,7630429,9987222,72,123,villa,single,True
+16f61c29,Algiers,5324006,8106478,92,142,apartment,single,True
+072aaa8c,Constantine,7167889,8268699,72,98,duplex,married,False
+08642e18,Bejaia,6443403,7956812,81,104,duplex,married,True
+11b372c9,Algiers,6716013,9758015,80,137,apartment,married,False
+1b8d7633,Tizi Ouzou,6545870,9576859,95,125,apartment,single,True
+cc9fb740,Oran,7853791,10594121,90,110,apartment,married,True
+7aa4569f,Constantine,6106324,8097944,77,135,villa,married,False
+7c6aa1dd,Blida,6040156,7900382,82,106,duplex,divorced,True
+972580ef,Blida,6800187,7947175,99,146,apartment,married,True
+a0abbef7,Constantine,5123544,8076018,92,117,apartment,single,False
+f5d7da39,Tizi Ouzou,7903918,11239054,83,121,apartment,divorced,True
+4f5d0dfe,Constantine,7809364,9976301,98,151,villa,divorced,False
+4b3aa959,Algiers,5644305,8609252,85,120,villa,married,False
+3fecac05,Blida,7646361,11285946,71,93,duplex,married,False
+1e1987dc,Blida,6921359,8832224,77,131,duplex,single,False
+7a799378,Algiers,7369962,11274906,86,145,duplex,divorced,False
+142ab63e,Tizi Ouzou,5240884,8955714,70,103,villa,divorced,False
+3b5bc854,Constantine,5702381,9293079,72,125,duplex,single,False
+c5c45506,Blida,6383258,9479829,81,125,duplex,married,False
+9cb65831,Bejaia,7076811,10874740,76,133,duplex,married,False
+da6ceb80,Constantine,5522493,7829529,99,120,apartment,divorced,True
+01804fc1,Tizi Ouzou,6837324,9390339,82,102,apartment,married,True
+86bd03b8,Blida,6742987,9202498,86,140,apartment,divorced,False
+9d09eb90,Oran,5874917,8701399,74,95,apartment,married,True
+6298fa25,Blida,5462744,7928474,96,119,apartment,married,True
+e16f8dd6,Tizi Ouzou,5444603,7035179,75,132,duplex,married,True
+a6f4a53f,Algiers,7749855,11143593,89,130,duplex,divorced,True
+379f8dd4,Constantine,7054154,10309757,73,118,duplex,married,False
+78a297c3,Constantine,7928237,9315130,83,116,apartment,married,False
+cbc9ec2e,Constantine,6169008,7582879,70,102,apartment,married,True
+4413724b,Algiers,7776565,9313984,75,101,apartment,divorced,False
+1c1ad8d4,Bejaia,6917326,10372389,75,114,villa,single,True
+92d8e42a,Oran,5131970,9006435,100,132,apartment,married,True
+cda292bf,Tizi Ouzou,6346443,9557049,81,133,duplex,divorced,True
+0b1b0084,Constantine,6620265,8966701,72,131,villa,single,True
+9f104471,Oran,5299337,9044997,99,138,duplex,divorced,True
+94b9bc3c,Oran,6509959,7760849,95,134,duplex,single,True
+676db36f,Bejaia,5531012,9497302,76,104,duplex,divorced,False
+0eb66cd4,Oran,5146518,8820640,89,127,duplex,single,False
+2d687582,Constantine,5032717,8526304,72,128,apartment,single,True
+e7f73d89,Constantine,6191640,9728837,95,122,duplex,divorced,True
+861de90d,Oran,7032241,9653317,90,145,apartment,married,True
+b56b99f3,Constantine,6088348,9493966,73,110,villa,married,False
+10037d77,Algiers,7451082,8494565,71,95,villa,single,False
+5f41b30c,Tizi Ouzou,6441151,10271507,70,124,duplex,divorced,False
+461dab9e,Blida,5549303,8562568,83,136,apartment,divorced,True
+7a810928,Oran,6814970,8543062,91,122,duplex,single,True
+94fa6094,Constantine,6844082,7882389,94,136,apartment,married,True
+f6fb1c7e,Bejaia,7654551,9177259,93,119,apartment,single,True
+df86d629,Oran,5792291,8718433,82,112,duplex,divorced,True
+82ba1d5a,Algiers,6850622,9875916,93,134,duplex,divorced,False
+20700706,Bejaia,6724325,9932919,98,127,duplex,married,False
+f66d9e5a,Algiers,7341664,9204655,86,134,villa,divorced,False
+a0b8250a,Blida,7902222,11520082,97,141,apartment,married,True
+f0068f9e,Bejaia,7132043,8648024,97,120,duplex,single,True
+211264f3,Tizi Ouzou,6201860,8045615,95,132,villa,married,False
+c771192b,Oran,5829923,8025829,74,103,apartment,married,True
+9514336f,Bejaia,6023926,9820636,90,132,villa,married,True
+e1241ddd,Constantine,5679233,8786468,89,123,duplex,married,True
+96694780,Constantine,6316777,7694129,94,135,apartment,married,False
+fcad0c19,Bejaia,6586349,10422987,97,155,villa,married,True
+7cfde19f,Oran,6061842,8491740,92,114,villa,divorced,True
+614456e1,Bejaia,7202483,10956420,70,122,apartment,married,True
+0e2811e0,Algiers,6428309,8118598,88,138,duplex,divorced,False
+b002e59c,Oran,5767290,8641982,82,126,duplex,divorced,False
+0c4af1d2,Algiers,7227692,8642855,92,127,villa,married,True
+eefe7d8b,Blida,7693496,8873762,85,143,villa,married,True
+ced4c1ad,Blida,6060018,9796758,83,143,villa,divorced,False
+197c12ee,Blida,7736820,10731508,76,121,apartment,single,True
+edda1148,Blida,6058473,7167418,99,152,duplex,divorced,True
+4633e070,Constantine,6325742,8441245,82,135,duplex,single,False
+58b5791f,Blida,5775110,9565443,83,115,apartment,married,True
+608b30b9,Oran,5221445,7268288,84,130,villa,single,False
+59abc904,Tizi Ouzou,6206967,8991992,74,128,duplex,married,False
+0aae026e,Oran,7117820,10418901,76,119,duplex,single,True
+aba55390,Tizi Ouzou,5119283,8253929,84,114,apartment,married,True
+90c67989,Blida,7028111,9603039,76,114,duplex,single,True
+09c99d49,Tizi Ouzou,6019298,9562219,70,113,villa,married,True
+08174eed,Oran,6341002,9184063,75,121,villa,divorced,True
+0fd8722f,Algiers,5026502,7389385,73,126,apartment,married,False
+b07a7f47,Constantine,7501051,9871223,80,120,duplex,divorced,False
+8f661750,Bejaia,5772924,7430358,88,118,villa,married,False
+48ff4c8a,Oran,7224322,9183809,94,151,duplex,married,False
+aac95808,Constantine,7628491,9383897,80,114,villa,married,False
+8d847a65,Oran,5307648,8010464,86,127,villa,single,False
+94d30591,Tizi Ouzou,5109286,7370766,73,97,apartment,single,True
+f666ae00,Tizi Ouzou,7713685,9124746,93,141,apartment,divorced,True
+51c500f8,Tizi Ouzou,7024565,9776564,94,123,duplex,divorced,True
+0a3cfc67,Tizi Ouzou,6018248,7878216,93,134,duplex,married,True
+7517b8f4,Bejaia,7313739,8594852,91,112,apartment,divorced,False
+36faca7a,Bejaia,7317590,10900147,87,110,duplex,married,True
+6a4057de,Constantine,5180586,7594615,80,102,duplex,married,True
+2aba13fd,Algiers,7173941,9028534,88,127,apartment,divorced,True
+67562397,Algiers,5304443,7337393,73,123,duplex,single,True
+8dc08f5b,Oran,7956708,9558744,84,116,apartment,single,True
+7a8ddda9,Bejaia,7010085,9852790,90,126,villa,single,False
+f7a0b2a3,Algiers,5977294,7117771,70,129,duplex,divorced,True
+ad0eba01,Bejaia,6593367,8643465,88,112,villa,divorced,True
+05c03b20,Blida,5047164,8437589,95,122,apartment,divorced,False
+f32eef41,Algiers,7680378,10582524,95,146,duplex,married,False
+d6f8a371,Bejaia,5962137,7540639,80,115,duplex,single,False
+cd5a99f5,Tizi Ouzou,5730789,7546208,84,141,villa,married,True
+4a92dbbb,Blida,6555842,9297934,88,122,villa,divorced,False
+8fffde69,Oran,7099128,9073856,81,133,apartment,divorced,True
+6ab66312,Constantine,5739903,8190681,94,153,duplex,single,True
+b971300b,Bejaia,6648286,8580534,88,144,duplex,single,True
+484ac738,Tizi Ouzou,7006401,8395783,92,115,villa,single,False
+0e47a7c5,Oran,5622405,8654704,94,114,duplex,married,False
+82adcc57,Bejaia,5599689,8787513,100,135,apartment,married,False
+445ccc30,Blida,6687594,9605764,98,144,apartment,married,False
+a4366b3c,Tizi Ouzou,7659489,10030636,76,97,villa,single,True
+7bb3444f,Blida,5395843,6500821,86,144,apartment,married,False
+fcf0582e,Algiers,6946032,8574508,98,155,duplex,married,False
+5c273d43,Bejaia,5949952,6954053,99,149,apartment,divorced,True
+f9b7d02e,Constantine,5913576,7145246,85,123,villa,single,True
+00703f32,Algiers,7155104,8794465,87,146,villa,single,True
+01748722,Tizi Ouzou,7511270,8891298,70,129,villa,single,True
+0fcd3c36,Tizi Ouzou,7016917,10289163,83,112,apartment,married,True
+4aca1557,Bejaia,6674291,7675352,99,155,apartment,married,False
+fd77fcb1,Constantine,5305431,9057640,78,122,villa,divorced,True
+179a6924,Algiers,5736313,9726168,78,138,duplex,married,False
+41971d01,Algiers,7647503,9603483,76,133,duplex,single,False
+803c6bdd,Blida,7824133,8857505,81,124,duplex,single,False
+00838193,Oran,6152289,9976998,75,97,villa,married,True
+45d66717,Blida,6876066,9872183,73,102,villa,divorced,False
+964d639c,Oran,6873953,9443703,99,136,duplex,married,False
+40d86409,Tizi Ouzou,5794435,8892880,88,114,villa,divorced,True
+65017e57,Tizi Ouzou,6597686,8717678,84,142,villa,married,True
+ff2bcf0b,Constantine,5708212,8920203,96,125,villa,divorced,True
+e6d13543,Bejaia,6506192,8969317,76,121,apartment,single,False
+099165da,Tizi Ouzou,5650875,8755774,76,135,villa,single,True
+a9a7f45a,Algiers,6996692,9168171,76,100,villa,divorced,False
+5a15c076,Constantine,7774402,8785991,80,135,duplex,married,True
+05ca381a,Algiers,5612430,7651871,97,129,duplex,single,False
+b3679bc6,Bejaia,6740699,10555816,96,116,apartment,divorced,False
+f8c76f10,Constantine,5134685,7366277,92,121,apartment,single,True
+a77e5007,Algiers,6337276,9209166,86,136,villa,single,False
+53ee2504,Constantine,6678420,9381075,70,94,villa,single,True
+b918aeb0,Tizi Ouzou,7184205,9923835,75,98,duplex,married,True
+dc3135dc,Bejaia,7130805,10780148,71,108,villa,married,True
+46f919fe,Tizi Ouzou,5031588,8092110,96,117,duplex,married,False
+31efd1b1,Tizi Ouzou,7744578,11060634,89,117,duplex,single,True
+dc12104d,Oran,6461964,8113002,90,134,duplex,divorced,True
+813a76e6,Bejaia,7596124,11427972,79,114,villa,single,False
+f41a2d5d,Oran,5889947,7784509,93,136,duplex,divorced,True
+8d976e88,Constantine,6823477,9082743,92,139,duplex,single,False
+91340ff2,Algiers,7109305,10399562,85,137,duplex,divorced,True
+6519cc4c,Tizi Ouzou,5897641,9040616,75,105,duplex,married,True
+1fa53bc7,Bejaia,6020408,8227950,79,135,villa,divorced,False
+913de4d1,Bejaia,5666420,8916536,77,97,villa,single,False
+155a058e,Blida,5147020,7932360,100,134,villa,single,False
+b7dd96e8,Oran,5537751,9466420,93,121,apartment,single,False
+44168c4d,Bejaia,5706332,9666542,94,127,duplex,divorced,False
+ba33bb89,Constantine,6968672,9553800,87,121,duplex,single,False
+823ba37d,Bejaia,5730193,8716691,95,117,villa,married,False
+e42f92c5,Algiers,5367412,8206702,76,97,duplex,single,False
+add1b1e3,Tizi Ouzou,5558816,7527211,97,156,apartment,single,True
+0f38205e,Oran,5020403,7108539,76,136,duplex,married,False
+e0404c81,Oran,7967765,9772488,93,119,apartment,single,True
+c09cf1fb,Bejaia,6017444,7549469,78,133,duplex,single,True
+0e57ad76,Blida,7206467,10357853,88,147,duplex,divorced,True
+60e38a72,Tizi Ouzou,7904685,10580101,75,111,apartment,divorced,True
+620bbb91,Oran,5560655,7029148,81,124,villa,single,True
+1ba098a7,Blida,6090253,8321911,85,127,villa,divorced,False
+526caf45,Algiers,5908641,9509162,79,123,duplex,divorced,False
+b33ae518,Blida,6138029,7878983,99,133,duplex,single,True
+eeab1eed,Constantine,7541282,8625342,86,114,apartment,married,True
+6bf3de46,Bejaia,7176600,9631306,79,139,villa,single,True
+8c0cea51,Tizi Ouzou,5461098,7930253,96,135,apartment,married,False
+209ecc16,Constantine,5481596,7628653,70,127,apartment,married,False
+e8dfd3ff,Algiers,7361376,10552147,78,109,villa,married,False
+54895789,Tizi Ouzou,6267222,8955375,84,143,apartment,divorced,False
+7b1559df,Algiers,7903780,11743525,100,141,apartment,single,False
+45c7e453,Algiers,7039795,9902142,77,118,duplex,divorced,False
+e4211890,Blida,7977262,10927134,80,108,villa,divorced,True
+0f43b743,Algiers,7878041,9688163,81,129,duplex,divorced,False
+0e050fc1,Oran,7142717,9234693,86,120,apartment,single,True
+fa72bb72,Bejaia,5401688,6890375,74,119,apartment,married,False
+985cc426,Tizi Ouzou,5188991,8042206,95,126,villa,married,False
+37129eba,Bejaia,6590487,9462880,95,153,duplex,married,False
+01785048,Constantine,7949215,9210286,70,101,villa,single,True
+a5d2279d,Oran,6482033,7562794,81,109,apartment,single,False
+416f21e8,Bejaia,5237898,9045739,81,110,duplex,single,False
+5cd40b9e,Oran,7681638,10699771,75,131,apartment,married,False
+f8affce4,Tizi Ouzou,6277459,8203341,89,121,apartment,divorced,True
+d01e7094,Tizi Ouzou,5265894,7866809,73,99,duplex,married,True
+fe59a21a,Bejaia,6976437,9074200,92,147,apartment,divorced,True
+0c9a9133,Constantine,6116469,8381274,99,134,duplex,single,True
+ca5cbd83,Blida,6090978,8142334,97,154,villa,single,True
+a5d64f7c,Bejaia,5773282,9507624,79,136,villa,single,False
+c95a915b,Tizi Ouzou,5969969,7667673,87,124,apartment,single,True
+65c943c9,Oran,5599517,8171015,76,107,duplex,married,True
+2fb85415,Tizi Ouzou,7578184,11488033,84,135,apartment,married,True
+7eab83de,Algiers,5969945,7865638,92,125,apartment,divorced,False
+2fa25f7e,Tizi Ouzou,7020278,9928705,86,111,apartment,single,False
+a366444d,Bejaia,5929793,7484794,73,127,apartment,single,True
+7e0a010b,Tizi Ouzou,5353260,7278002,98,132,villa,single,True
+aedb2a50,Blida,5440881,8359792,93,115,villa,married,True
+527f9bbe,Tizi Ouzou,6385515,9899185,83,130,apartment,single,True
+ebddcc55,Algiers,5377352,6383178,72,112,villa,married,False
+bb240559,Oran,7359249,10505871,99,149,villa,divorced,True
+b32edb20,Algiers,5884985,9822195,89,145,apartment,divorced,False
+99ff72c2,Constantine,5343926,6347977,73,124,duplex,divorced,True
+5612dbac,Bejaia,5711630,6797593,70,92,villa,single,False
+ab43572a,Oran,6020177,9889429,83,108,duplex,single,True
+ffe8eea7,Blida,5974385,9943019,73,98,villa,single,True
+3ddd6c75,Bejaia,7270616,10551984,71,93,villa,single,True
+9286a405,Blida,6213424,7927181,88,139,villa,married,True
+62a32190,Tizi Ouzou,5462901,8946682,77,117,duplex,divorced,False
+525d6281,Bejaia,5767389,8910324,100,125,apartment,single,False
+99916eae,Bejaia,7166178,9763566,100,127,apartment,single,False
+b9bcb670,Bejaia,5837664,8786082,77,132,villa,married,False
+ab189ad5,Blida,7877987,11147887,80,132,apartment,married,True
+ef4a8318,Tizi Ouzou,7384140,9947830,94,152,villa,single,True
+1ad06c51,Algiers,6152781,9875723,72,117,duplex,married,False
+a1f84e25,Oran,6257274,8990413,94,126,duplex,divorced,True
+a0d4c671,Algiers,7286989,9960697,100,146,duplex,divorced,True
+bd58be1c,Bejaia,5550059,8500556,88,132,apartment,single,True
+b6c420a0,Blida,5313854,7550345,89,149,villa,married,True
+96047e93,Tizi Ouzou,7783874,8836936,95,139,villa,married,False
+fc851475,Oran,7134967,8984031,71,107,duplex,divorced,True
+ccfd5ba1,Constantine,5743220,7581926,83,116,villa,divorced,True
+575d866d,Algiers,6107141,7875129,80,104,duplex,married,True
+bf152f92,Oran,6213683,7473073,91,126,apartment,single,False
+ef5af0d6,Tizi Ouzou,6754289,9326056,98,137,villa,divorced,True
+8431b2a2,Oran,7259269,11185746,91,138,duplex,single,True
+44dc1ffb,Bejaia,6199145,9080198,100,149,apartment,single,False
+e144083e,Tizi Ouzou,7129958,9660303,73,122,villa,single,True
+5dd7ee60,Constantine,5963146,9911042,96,148,villa,single,True
+2551cb2b,Oran,6858489,9819993,97,151,duplex,married,False
+b7a18a98,Tizi Ouzou,5665418,7545234,74,113,apartment,married,True
+12a44e67,Tizi Ouzou,7185468,9988726,83,110,villa,divorced,False
+f59a22fd,Bejaia,7721985,10051017,73,103,villa,divorced,True
+39ba35e7,Tizi Ouzou,5661245,8087278,82,102,villa,divorced,True
+d82bc95b,Constantine,7600339,11256545,100,153,apartment,married,False
+9e169529,Blida,5767337,8509716,93,116,apartment,single,False
+85ca44b8,Blida,5502249,7851729,70,118,duplex,married,False
+99b2e399,Algiers,5285993,9088502,87,123,villa,divorced,True
+87eb4d8d,Algiers,6723066,10200827,84,138,duplex,divorced,False
+4da7ea88,Tizi Ouzou,5540140,9195844,93,146,apartment,divorced,True
+28f5f247,Constantine,6334028,10135647,71,110,villa,divorced,True
+3c8646f1,Bejaia,5094746,7831387,98,130,apartment,single,True
+b9913f82,Tizi Ouzou,5810199,8893690,88,134,villa,divorced,True
+847ff86b,Oran,5592555,7433533,94,154,duplex,married,False
+70b00289,Bejaia,6080222,7803560,90,117,apartment,single,False
+d62cd671,Bejaia,5149071,7623932,85,143,duplex,single,True
+415bb955,Algiers,6971362,9372184,89,141,apartment,single,False
+179c9ca6,Blida,5267966,7419039,87,114,villa,divorced,True
+8bb2c739,Oran,5578213,7220893,76,127,apartment,single,True
+9931c611,Constantine,7204130,10414036,92,145,duplex,married,True
+d08b5d6f,Blida,5161182,6205515,87,125,apartment,divorced,False
+897db1f2,Algiers,7977553,11360905,74,131,villa,single,True
+e49c2a12,Constantine,5613193,9047138,93,123,duplex,divorced,True
+de2ded5f,Oran,7703416,9660550,78,105,villa,divorced,True
+0fe845ee,Oran,5165706,9106970,71,128,villa,divorced,False
+023f646c,Tizi Ouzou,6462618,9485511,99,143,apartment,single,False
+19a84bbb,Algiers,6231435,8054059,99,150,duplex,married,True
+68fa34f7,Algiers,7467887,10582925,80,115,villa,married,False
+b43c631b,Oran,5478413,7973175,96,136,apartment,single,True
+2778d629,Constantine,7808553,10281610,99,129,duplex,married,True
+ef979229,Bejaia,6977235,10080754,74,95,villa,married,False
+d04cab8b,Blida,5557752,7411220,77,132,villa,single,False
+f1b98b22,Constantine,7486708,10237908,100,122,apartment,divorced,False
+179d692c,Bejaia,5473147,6647987,70,98,apartment,married,True
+a624a9bc,Bejaia,7597897,8664348,96,123,apartment,married,True
+6e5d959b,Constantine,5967199,8922818,92,132,duplex,single,False
+9e482ab4,Oran,6104046,9968631,99,152,apartment,single,True
+74797c1e,Tizi Ouzou,6006940,7593282,96,148,duplex,divorced,True
+fe870ce8,Constantine,5010276,7281606,77,115,duplex,single,True
+e8a915d0,Algiers,7765261,9343986,76,128,villa,divorced,True
+ea5545ff,Oran,5008263,7280024,72,104,villa,single,True
+19493182,Oran,7038078,10761554,96,149,apartment,single,True
+70f72227,Oran,6841140,9337529,97,141,villa,married,False
+64bdd6d3,Tizi Ouzou,5453674,7981463,73,103,villa,divorced,False
+27b1e88c,Bejaia,5942989,8006795,95,138,apartment,divorced,False
+062aa1b4,Bejaia,7792170,9236665,85,119,apartment,married,True
+feff3d8c,Constantine,5168355,7860421,87,129,duplex,single,True
+70ee68fe,Bejaia,6972551,9769286,77,106,villa,single,False
+0c5b43dc,Bejaia,6977130,10242946,76,126,apartment,divorced,True
+ed080cb3,Tizi Ouzou,6368144,7694004,89,119,duplex,married,True
+6ead4ef9,Blida,6887874,8961336,72,131,duplex,single,False
+141cb30f,Bejaia,6931244,10218978,81,103,duplex,married,False
+3caa231b,Constantine,7438058,10917654,100,144,duplex,divorced,False
+e287f40e,Algiers,6270244,7904415,99,130,apartment,single,False
+e9088212,Blida,7591802,10973736,94,145,duplex,divorced,True
+5d7e139b,Tizi Ouzou,6573685,8809713,84,115,villa,single,True
+c060b9b0,Oran,5842595,9587467,90,120,apartment,single,True
+176b402b,Blida,5015330,8802980,78,121,villa,married,False
+d4f46ccc,Constantine,7309079,8860862,70,114,duplex,divorced,False
+6dfe6021,Tizi Ouzou,7002384,8624504,97,125,villa,single,True
+25ecca1a,Bejaia,6371236,8317483,98,151,apartment,married,False
+e274d4fa,Blida,5481036,8772424,100,158,villa,married,False
+92fe8c50,Bejaia,7048868,11021035,70,110,duplex,divorced,True
+da2fdb06,Tizi Ouzou,7510337,9411075,88,121,villa,divorced,False
+dc64a557,Bejaia,7711759,9422520,81,139,villa,single,False
+95164553,Algiers,5592104,7359180,94,133,apartment,divorced,False
+aa4947d1,Constantine,7639685,9770348,85,122,apartment,divorced,True
+3babfec5,Blida,7967110,11254318,87,108,villa,married,True
+1ff7487e,Tizi Ouzou,6451075,7819207,84,129,apartment,divorced,False
+acfaa585,Blida,5670366,8404887,82,117,apartment,single,True
+0cf07d54,Bejaia,7147692,8289023,98,136,apartment,married,True
+2851c0a4,Algiers,7881828,11443193,87,142,duplex,divorced,True
+0d6522ac,Oran,6936691,9642326,75,95,apartment,single,False
+c4e7ba51,Algiers,5022919,6373355,82,135,duplex,single,False
+49333fc3,Oran,5401212,6749657,97,129,apartment,divorced,False
+adf9fea4,Constantine,5817485,8813419,91,123,duplex,divorced,False
+18fc8523,Algiers,5034303,8621338,84,113,villa,divorced,False
+ca6018fb,Algiers,7477636,10766183,94,115,villa,single,True
+8bb6a5ef,Constantine,6645861,10179093,77,128,apartment,single,True
+1fd89af2,Bejaia,7959672,10343471,89,130,apartment,married,True
+2015cb43,Blida,7485581,9378372,71,113,duplex,single,True
+cbc8aa21,Bejaia,6582971,10417061,89,112,duplex,married,True
+e57e2395,Tizi Ouzou,5792904,8193550,89,114,villa,married,False
+0534e60e,Oran,7886305,10700380,84,119,duplex,single,True
+59d96144,Constantine,6756891,9175892,81,140,duplex,divorced,True
+cccc0a30,Bejaia,6800978,10615862,93,124,duplex,divorced,False
+aa52af6c,Algiers,5985430,9725103,89,120,apartment,divorced,True
+4bb38e25,Algiers,7475060,11283114,95,142,duplex,single,True
+d1b14e7e,Oran,6776278,8887106,82,124,duplex,married,True
+9c3b35fe,Oran,6332043,9020962,95,127,duplex,married,True
+58ecc8f1,Bejaia,7327713,8508683,70,127,villa,married,False
+e9149e91,Algiers,5742592,9205047,71,119,villa,divorced,False
+116896b3,Tizi Ouzou,6292834,7634553,94,153,villa,single,False
+1e4a88b0,Blida,5687655,7186664,94,129,duplex,divorced,True
+da81dc7b,Blida,5812954,8472242,71,110,villa,single,True
+7c6f4227,Bejaia,5301194,7967958,73,112,villa,married,False
+4d3bfcf8,Bejaia,5896431,7465826,74,129,villa,single,True
+69d9dec4,Algiers,6964562,10930597,76,111,villa,divorced,True
+26326c9f,Oran,6884737,9910590,82,128,villa,divorced,True
+897cc00e,Constantine,5292724,8397649,81,124,duplex,married,False
+91228835,Oran,7919204,10807977,85,128,villa,divorced,False
+cc0fd9a9,Blida,6731052,9114121,77,104,duplex,married,True
+7b93808e,Oran,7195422,8772224,72,115,apartment,divorced,True
+d3f54726,Blida,6362486,8786521,76,117,villa,married,False
+bc91adbd,Algiers,7596100,9931263,98,134,villa,divorced,False
+1bece2f8,Tizi Ouzou,5580244,6774670,90,124,villa,single,False
+0e5f2290,Tizi Ouzou,7193719,8539637,80,124,duplex,single,True
+de976be1,Blida,6691256,7859825,89,114,duplex,single,True
+02d84985,Oran,5054502,8456931,71,101,duplex,married,False
+73295067,Oran,7889301,10663909,73,103,villa,married,False
+33ba2312,Tizi Ouzou,5285830,8877824,71,111,apartment,single,True
+a9d362da,Tizi Ouzou,7900476,9482377,93,138,villa,divorced,False
+50eca1c2,Constantine,5649432,6840461,91,119,apartment,single,False
+3222d0cc,Tizi Ouzou,7047078,10177097,99,119,villa,single,True
+1e7d5657,Bejaia,5477582,6531292,72,125,duplex,single,False
+212d85d8,Blida,5541270,8038760,78,104,villa,divorced,True
+fc914e39,Algiers,7291226,9667503,90,129,apartment,divorced,True
+c0654f33,Constantine,7776235,10014032,91,147,duplex,single,True
+8262582c,Algiers,7157968,11081167,88,113,apartment,married,True
+b90234c1,Constantine,5137740,6278533,94,136,villa,married,True
+172e65ff,Algiers,7451501,10354778,80,109,apartment,married,False
+80e8db6b,Tizi Ouzou,5912013,7437641,100,159,apartment,divorced,False
+ce95d841,Algiers,7186362,9324356,86,129,apartment,single,False
+2d19d4de,Blida,6388353,7425487,98,119,apartment,divorced,False
+538ecbda,Oran,5987040,7012243,70,119,apartment,married,True
+f513d43d,Bejaia,5135658,8898175,95,154,apartment,married,False
+93fc3b6d,Constantine,7206775,9302001,79,117,villa,divorced,True
+a589735c,Oran,6790958,9252672,91,117,duplex,married,False
+0cb8c5cc,Blida,5449808,6982068,81,111,duplex,divorced,False
+78749fa6,Constantine,7149051,8350503,79,116,duplex,divorced,False
+5057197a,Bejaia,6290072,7556803,72,112,villa,married,False
+ec2dea46,Algiers,7741968,8828478,77,101,duplex,married,True
+b0c7d5f1,Oran,7849059,10201054,72,104,villa,single,True
+2a398d9b,Algiers,5585493,9247201,74,107,apartment,single,False
+3a716ea5,Algiers,6343402,7413932,77,116,apartment,married,False
+55a78ace,Algiers,5312491,8284938,81,118,duplex,single,False
+7c02b395,Bejaia,5151539,6579373,86,111,apartment,married,False
+d370c93b,Tizi Ouzou,5567149,7323963,72,110,apartment,divorced,False
+60af3e11,Bejaia,5150021,9145155,96,137,apartment,single,False
+a81a957a,Constantine,6044924,7188214,78,117,villa,divorced,False
+24d9ed1f,Bejaia,7750519,11087891,84,118,villa,married,False
+c83d4861,Constantine,6640718,9896701,91,114,apartment,married,False
+99fe7e88,Oran,5649837,7557252,99,157,villa,married,False
+35f50f07,Constantine,5316848,8062532,78,106,apartment,divorced,False
+87ea6097,Oran,7766500,11697496,94,123,villa,single,False
+9fee21fe,Oran,5798947,9673171,81,131,apartment,divorced,True
+9d232be7,Bejaia,6025487,7815913,92,126,villa,single,True
+11d0bc22,Bejaia,5345004,7720310,80,136,villa,married,False
+1356dea5,Constantine,6624652,8784377,81,134,duplex,divorced,True
+ac77b5b8,Oran,5063498,8119056,87,116,duplex,divorced,True
+c43c3574,Constantine,6316015,7948248,85,140,apartment,divorced,False
+3ed58860,Constantine,6952029,9963514,79,108,villa,single,False
+c5c4de6b,Bejaia,5202875,6565144,80,129,apartment,married,False
+5e363ac5,Constantine,6351762,9627791,73,127,villa,married,True
+2f46ef58,Constantine,7385865,11131697,76,111,villa,single,False
+5fd39c70,Oran,5985755,8909487,73,93,duplex,married,True
+e5f0a293,Tizi Ouzou,7506914,8519788,93,114,villa,divorced,False
+00a87e45,Blida,7070731,10815974,85,109,duplex,married,True
+58d2811a,Tizi Ouzou,5033740,8217166,76,97,apartment,married,True
+11116b32,Algiers,7928340,9451730,98,143,villa,married,True
+ad5d2a71,Blida,5695642,7981310,88,139,apartment,divorced,True
+b387dcf4,Algiers,7852244,11765324,73,119,villa,divorced,False
+d4c9bce7,Oran,6968409,10675460,90,147,villa,single,False
+576e9a6e,Tizi Ouzou,7497253,8852804,100,131,duplex,married,False
+99d75cf1,Algiers,6937715,9470252,72,126,duplex,divorced,True
+e638b1d9,Constantine,7211176,8338093,79,127,duplex,divorced,False
+ff59f88c,Algiers,5139424,7055045,76,112,villa,divorced,True
+7081721e,Tizi Ouzou,5590414,9522481,96,129,villa,divorced,False
+db3cbcd2,Tizi Ouzou,6160207,8483106,76,130,apartment,single,True
+06d18c3c,Bejaia,5651561,7455303,82,103,villa,divorced,True
+62ab1eda,Oran,7710300,10838015,77,134,apartment,single,False
+b0cf322f,Constantine,7710009,9440893,78,114,duplex,married,False
+76454f77,Algiers,5962850,7067345,75,113,apartment,single,False
+282a24fe,Constantine,5112195,7207271,99,125,duplex,married,True
+7784309d,Algiers,6766359,8253670,95,129,apartment,divorced,False
+713506ce,Tizi Ouzou,6756988,10449833,96,144,villa,single,False
+914c1c9c,Blida,6344831,9178142,91,115,apartment,single,True
+d9ed6b8c,Algiers,6760664,9049663,80,115,duplex,divorced,False
+020d4d9d,Oran,5218365,6879476,78,122,apartment,divorced,False
+bbe4cf5a,Algiers,6178239,7714613,95,131,duplex,married,False
+d660175c,Algiers,6701001,8373797,98,142,villa,divorced,False
+87070abf,Oran,7036261,9259536,100,125,duplex,single,True
+eb2a4f89,Blida,7190481,9743480,87,134,duplex,divorced,True
+3fef5e25,Algiers,7912813,9345111,71,118,villa,divorced,True
+61ee580d,Constantine,7832640,9752446,87,127,villa,single,True
+e296f5cb,Blida,6840297,10835093,79,137,villa,divorced,False
+059b2692,Constantine,7456616,9730451,95,145,villa,single,False
+0c0be1bb,Oran,6484151,9767827,82,116,duplex,married,False
+6e5ce319,Bejaia,7566632,8876657,83,104,duplex,divorced,True
+ab601644,Blida,7403746,9640342,75,96,apartment,divorced,False
+378cb8b5,Algiers,6113534,7475071,96,154,duplex,divorced,False
+1521c136,Constantine,5783344,9776895,91,134,villa,married,False
+91028125,Constantine,5412090,6543290,70,98,villa,single,False
+06e6686a,Oran,5615070,7183846,71,117,apartment,married,True
+1dcb0d91,Algiers,7715666,9221249,72,117,villa,single,True
+8c6686e2,Algiers,6328313,8215118,97,138,villa,single,True
+7ea10321,Oran,7541800,10282369,77,126,duplex,divorced,False
+e1d6e2c1,Constantine,5477066,6603859,75,127,duplex,married,True
+a0816212,Constantine,6854501,9587303,93,116,villa,single,True
+552f6caa,Constantine,7662983,8697242,100,123,duplex,single,False
+fb4e8f79,Oran,7373150,11237551,96,132,villa,single,True
+f5700576,Bejaia,7244257,8705099,81,135,apartment,divorced,False
+2510a8c3,Blida,7330251,9001362,96,125,apartment,married,True
+bca41750,Blida,6311597,8977218,81,105,apartment,married,False
+e04a977f,Blida,7440709,9291175,98,147,duplex,single,False
+18c5de2f,Oran,7406579,9891225,89,145,apartment,single,False
+ce7af3a7,Tizi Ouzou,7827236,11315328,78,116,villa,divorced,False
+823960ec,Oran,7973927,11504688,79,105,apartment,single,True
+d1e293a5,Bejaia,6958625,8813499,90,137,villa,married,False
+a56f2dfb,Bejaia,5973992,9902167,100,124,apartment,married,True
+b44ba1ab,Algiers,6524859,8343605,97,135,duplex,divorced,True
+bff16cba,Bejaia,6318049,9023458,84,133,duplex,divorced,False
+669cfb04,Tizi Ouzou,6416407,9614017,97,144,apartment,married,True
+a74bbd26,Oran,5575557,7458777,90,137,duplex,divorced,False
+52953186,Algiers,7494490,10111760,94,122,apartment,single,True
+6a21c759,Blida,7183590,8946017,100,151,duplex,married,True
+b7cb1401,Oran,5377298,8798425,99,147,apartment,married,True
+e3c92593,Tizi Ouzou,6527726,8002940,89,121,duplex,divorced,False
+1af6d7db,Bejaia,7371683,11359951,82,130,apartment,single,True
+4795992f,Tizi Ouzou,6553961,8069038,83,142,duplex,divorced,False
+72dbf4dd,Oran,6547136,8613379,79,107,apartment,married,False
+9db440e1,Constantine,7209775,10995240,93,150,duplex,divorced,True
+d47b6418,Tizi Ouzou,5687334,7339910,93,149,apartment,divorced,True
+3c420053,Oran,5403640,9077559,92,149,duplex,single,False
+2bb2bbd9,Oran,5398960,6570245,86,138,duplex,single,True
+7d2ddd93,Blida,6941309,8427199,80,122,duplex,single,True
+0b494d48,Oran,5942232,7779047,95,139,apartment,married,False
+d553b6c4,Oran,7284871,8897504,77,113,apartment,single,False
+902be7ef,Oran,6686678,8483782,76,126,apartment,single,True
+488a256e,Oran,5462518,6825724,72,123,apartment,married,True
+16543b8c,Blida,6734959,8136800,86,118,villa,single,False
+5a012e35,Bejaia,6575644,8315194,99,124,apartment,divorced,True
+0e851c73,Constantine,6785240,9286058,88,135,duplex,single,False
+457bbfb6,Constantine,6816215,10479234,73,120,apartment,divorced,False
+ebc8de1d,Bejaia,5208457,6536921,95,146,duplex,married,True
+87788be8,Bejaia,5160002,9153269,98,142,duplex,married,False
+558b2080,Bejaia,6521915,8641611,96,124,apartment,divorced,True
+0e65dfaf,Algiers,7120537,9633998,70,129,villa,divorced,False
+4d272ebf,Oran,6918261,10236985,95,138,duplex,divorced,True
+61d44084,Oran,7120704,8381923,76,104,villa,divorced,False
+1d04ee80,Algiers,6367618,9130050,73,104,duplex,married,False
+0086f6d2,Tizi Ouzou,7016815,10584886,78,133,villa,married,True
+b2707b86,Blida,5409404,7104518,76,105,villa,divorced,True
+eddc117e,Blida,7941835,11874701,100,134,duplex,divorced,True
+30221af0,Tizi Ouzou,6774607,8911134,85,144,duplex,single,True
+4fd575a2,Algiers,5975568,8120642,92,130,duplex,married,False
+0e01a6c3,Constantine,7887154,11190024,96,155,apartment,single,False
+8f7f4519,Blida,5519941,9324362,85,122,duplex,divorced,True
+c77c4dc1,Blida,7502012,9353529,82,113,duplex,married,True
+4bf66f57,Bejaia,6167377,8754713,91,118,apartment,divorced,True
+8e479056,Constantine,5034166,7903934,78,138,villa,single,False
+7eef3047,Blida,5277082,6565055,71,125,duplex,single,True
+1b7e29fc,Constantine,5793092,8909743,96,150,duplex,married,False
+b29bd184,Tizi Ouzou,5917124,8919684,88,135,apartment,divorced,True
+f8d5ffda,Tizi Ouzou,6071552,7488211,73,129,villa,single,False
+31653369,Oran,6730241,10583170,98,143,duplex,divorced,True
+ae7830b5,Bejaia,5999298,7289505,89,142,villa,married,True
+473af584,Tizi Ouzou,7835321,8923074,70,127,villa,single,True
+e3e92a05,Bejaia,5752342,7755414,79,128,villa,single,True
+60f92333,Algiers,7093669,10715261,92,141,apartment,divorced,False
+a28c1963,Bejaia,7885759,10464562,99,155,duplex,divorced,False
+418aa6e2,Tizi Ouzou,7834953,9511948,84,116,apartment,divorced,False
+8897697f,Tizi Ouzou,7028682,8594191,99,119,duplex,single,False
+f42df0c0,Constantine,6504859,9874620,82,105,villa,married,False
+9172a81d,Oran,6244014,7486867,90,116,duplex,single,False
+0efe058f,Constantine,5843425,8933939,92,122,duplex,single,True
+4000d3f0,Blida,6813759,10745268,94,150,apartment,divorced,False
+4c17aa00,Bejaia,5427601,7476915,77,101,villa,single,False
+91bfbf90,Blida,5699156,8604582,92,146,villa,married,False
+6e5afce4,Algiers,7327893,9643612,92,133,villa,divorced,True
+799a4e49,Tizi Ouzou,6184855,9161975,88,120,apartment,single,True
+28fad9a0,Blida,7900596,10236798,77,121,villa,single,False
+7c487756,Oran,5184828,8026754,70,115,duplex,single,True
+4b5162c6,Algiers,6703281,9918452,96,148,duplex,married,False
+491a6817,Constantine,5393897,9154767,81,125,villa,single,True
+f491a92d,Blida,5343038,8813848,72,115,duplex,single,False
+fd444b44,Oran,6329776,9738142,84,110,apartment,single,True
+aeed749a,Bejaia,7174391,10909234,100,148,duplex,single,True
+9e8a13f5,Blida,5935829,7295043,76,110,apartment,married,False
+668c0cb7,Algiers,5982420,8327203,94,127,duplex,divorced,False
+913a7372,Tizi Ouzou,7303876,10643081,86,125,villa,divorced,True
+5f41af02,Blida,7967746,11688501,91,118,duplex,single,False
+3eff4a78,Oran,5891420,7921815,95,117,villa,married,False
+01ceef6b,Constantine,7556722,9072120,73,108,duplex,divorced,True
+30055eb6,Algiers,6008056,8425670,75,104,duplex,single,True
+5cdb7de6,Blida,6217690,7800098,94,125,villa,single,True
+be5592e9,Bejaia,5118805,7354420,82,118,duplex,married,False
+0345b147,Constantine,5141070,7270558,96,133,villa,married,False
+2ad328f8,Algiers,5414060,8614827,94,124,duplex,single,False
+4e0cd51b,Blida,6462559,9770152,80,125,duplex,married,True
+bd22dca4,Bejaia,7989180,9853034,95,115,duplex,single,False
+960134d7,Blida,6081450,7248879,86,108,villa,married,True
+cfa839bb,Oran,6633854,9736310,87,127,apartment,divorced,False
+b74b402b,Oran,6753143,7772581,76,124,duplex,divorced,False
+e4fd5276,Tizi Ouzou,5938694,9485912,88,123,duplex,single,False
+ca525e93,Oran,5769336,7245019,98,131,apartment,divorced,True
+2eec0204,Constantine,6005703,8752563,96,138,apartment,divorced,False
+9c18f351,Tizi Ouzou,5643293,6864159,71,129,duplex,divorced,False
+6aa6ad63,Oran,5229758,6742493,83,106,apartment,single,False
+f8e600e0,Constantine,7276861,9352413,85,110,apartment,married,True
+3f965d5a,Oran,5766123,9362675,85,127,duplex,married,True
+58c76461,Constantine,6765128,10758306,77,109,villa,divorced,True
+bf4c5452,Tizi Ouzou,5559680,8783721,82,107,apartment,single,True
+ea82381d,Constantine,6212427,10131113,84,135,villa,single,False
+1f1b0e5c,Tizi Ouzou,7735845,9543665,78,110,villa,single,False
+dc6aa771,Blida,6898284,9413638,89,115,apartment,married,True
+739c5cde,Tizi Ouzou,5227077,7271340,92,121,villa,divorced,True
+c0e2dda7,Blida,5312571,9158454,88,122,villa,divorced,False
+acc6f1a7,Bejaia,7216192,8969118,87,144,duplex,single,False
+00f1617c,Bejaia,7136709,9701204,89,110,duplex,married,True
+1f35251d,Algiers,5680344,7258600,95,140,duplex,married,True
+98b3cc4d,Bejaia,7027924,9101503,93,119,villa,divorced,False
+33cf5fa5,Constantine,6350800,8461962,96,120,apartment,married,True
+e1e623f6,Blida,5171273,8980606,82,131,apartment,divorced,False
+5179bd29,Algiers,6445461,9347485,91,132,villa,single,True
+4cddbdb7,Blida,5281271,7020850,98,158,apartment,single,False
+34375a4e,Constantine,5058648,6837865,88,132,apartment,married,False
+4f4bf459,Bejaia,5492954,7856356,81,113,apartment,divorced,False
+0dd0c69d,Constantine,5773407,7545535,91,133,villa,divorced,False
+b5c981a7,Bejaia,7515819,10700216,77,110,duplex,single,False
+3a10d859,Algiers,6692121,8862505,93,116,apartment,single,True
+e68a0bee,Blida,5088259,8319330,82,127,duplex,divorced,True
+3eda59b6,Bejaia,7909413,10771790,75,122,villa,married,False
+8551b79d,Algiers,6020852,8020350,74,131,apartment,divorced,True
+5e4601e9,Bejaia,5779561,7655039,76,102,duplex,divorced,False
+52936191,Blida,6676798,9482283,98,121,villa,divorced,True
+9069374f,Blida,7151536,10147800,91,145,villa,divorced,False
+dc319e30,Blida,7062105,10138930,81,129,apartment,single,True
+662c308d,Tizi Ouzou,5854505,9728689,78,101,duplex,divorced,True
+9e6c0982,Blida,5210398,6859541,93,124,apartment,single,True
+d69d425b,Algiers,7888240,11500899,77,105,villa,married,False
+3d7ac077,Oran,7194038,8835596,74,121,villa,married,False
+6d07d34c,Algiers,7801151,10660466,80,135,villa,married,False
+099fbea6,Oran,5689909,8466308,99,129,duplex,single,False
+25d01d94,Constantine,6286637,8543941,98,149,apartment,married,False
+afcacb0c,Algiers,5214858,6959137,82,133,villa,single,True
+7a74ce6a,Tizi Ouzou,7637339,10565916,86,126,villa,divorced,False
+10b5367c,Oran,7718096,8982764,99,127,duplex,married,False
+336b37eb,Constantine,7674063,9160337,96,117,apartment,divorced,False
+a1def78b,Algiers,5764183,8028182,82,123,duplex,single,True
+41edc48e,Tizi Ouzou,5832925,9160795,87,108,villa,married,False
+c4e80821,Algiers,6557321,8979828,77,100,duplex,single,False
+0511c51c,Bejaia,5802603,9088539,100,128,apartment,single,True
+2df964ad,Tizi Ouzou,6449041,8017769,90,147,apartment,single,False
+532c7375,Tizi Ouzou,5404212,7484800,70,129,apartment,divorced,False
+d4dd293e,Constantine,7287595,9040350,79,134,apartment,divorced,True
+916fb60c,Algiers,7640772,11031588,72,109,apartment,single,True
+ff63ee94,Tizi Ouzou,6572839,8812448,92,145,duplex,single,True
+897edb19,Constantine,7234520,9818933,87,133,villa,divorced,True
+df95b339,Tizi Ouzou,6262285,8951481,99,140,apartment,single,False
+2dcf7fd3,Constantine,7680318,10547621,88,134,duplex,divorced,True
+d0e4016e,Oran,7704069,9815187,71,123,apartment,married,True
+5b9aac28,Blida,5910717,8893521,97,123,duplex,single,False
+1968b718,Tizi Ouzou,6043541,8278626,82,128,apartment,single,False
+f1975612,Blida,7420415,9873049,89,138,villa,married,True
+1ab96b42,Constantine,6986426,8913366,94,141,villa,divorced,False
+30e99dc3,Tizi Ouzou,7045745,9164109,89,118,apartment,married,False
+4b5a8e87,Oran,6084561,7141151,97,153,villa,married,True
+98262ede,Bejaia,7459253,10244808,83,126,apartment,married,True
+27a34386,Oran,7593035,10366825,73,119,villa,married,False
+a8d5c7ce,Constantine,6972083,8667531,76,101,villa,divorced,True
+d6277d63,Algiers,6175049,8682339,74,126,apartment,divorced,False
+3239ce4f,Constantine,6437273,8149129,90,135,duplex,divorced,False
+9e548610,Oran,7739753,10990560,95,123,villa,divorced,False
+ee492a03,Algiers,7220715,10750154,74,105,villa,divorced,False
+fb0e7a30,Tizi Ouzou,7621586,8916094,96,136,duplex,married,False
+e95e6eb3,Tizi Ouzou,7454172,11123267,73,129,villa,divorced,True
+d34489cf,Blida,7548085,9858237,80,110,villa,single,False
+9dfb2a59,Constantine,7057492,8995126,70,101,apartment,married,True
+ad897a56,Blida,6884142,9233376,98,145,apartment,single,True
+5d0e6b34,Algiers,6991132,8777764,70,123,villa,single,False
+045a41d5,Algiers,6977080,10601921,93,132,villa,single,False
+cf6f6181,Blida,5359126,6444362,98,150,villa,married,True
+9edcb1a0,Tizi Ouzou,7017273,10141417,92,118,apartment,divorced,True
+2bfd54a8,Constantine,7833015,8907408,84,116,villa,married,True
+d8a4f84d,Bejaia,6552217,8006370,99,136,apartment,divorced,True
+d9db742c,Bejaia,6933828,9498772,84,138,apartment,married,False
+9e4cca21,Tizi Ouzou,6672764,7763509,97,127,villa,married,True
+4aa1690b,Bejaia,7778119,10481322,71,98,duplex,married,True
+0ccf7931,Oran,7373693,10673551,87,145,villa,married,False
+4a65c939,Algiers,5657600,7605696,81,132,villa,single,False
+a2ff7185,Tizi Ouzou,7469805,10424207,76,131,villa,married,True
+3e7c6a89,Oran,6268885,10012218,72,132,apartment,divorced,False
+acce2bb2,Algiers,5207315,7808243,96,125,apartment,divorced,False
+a60367f8,Blida,5107006,7227168,92,122,villa,married,False
+14eb7944,Blida,7131030,9709622,92,146,villa,divorced,True
+ee560e7f,Blida,7510012,10859957,79,110,villa,married,False
+ae41f545,Oran,7943046,9472846,78,128,apartment,married,True
+0b59dfd8,Algiers,5692029,8873761,75,133,apartment,single,False
+6f95d580,Algiers,5516646,8857533,70,93,villa,married,False
+85dc939f,Tizi Ouzou,6011710,9488067,73,103,apartment,divorced,True
+9a1244e9,Oran,5516725,8557694,73,95,apartment,single,True
+e0b4679b,Tizi Ouzou,6985496,10133154,94,133,villa,single,False
+9d135ac6,Blida,6383840,8201505,70,107,apartment,divorced,True
+17b0dfcd,Bejaia,6651878,9692109,84,111,villa,married,True
+e72317cd,Oran,5180199,9152328,89,119,apartment,single,False
+4a93102b,Algiers,7399462,8557507,82,102,apartment,divorced,False
+f5cb9827,Blida,7471903,9809135,96,156,villa,married,True
+886984ca,Blida,5709987,8839704,85,142,duplex,married,False
+e590162f,Constantine,5293745,6355567,82,111,duplex,single,True
+a5a99da6,Algiers,7098681,8654391,100,146,apartment,single,False
+fbac90cc,Bejaia,5878409,6890397,80,110,villa,married,True
+ac63750f,Constantine,5914270,7394365,71,116,apartment,divorced,False
+522a9ddc,Algiers,5114571,8346429,87,141,villa,married,True
+5246ccf6,Blida,6069402,9320477,82,141,duplex,divorced,False
+ebd9916c,Blida,6749950,10076522,95,130,villa,single,False
+38f03345,Blida,7024194,9281090,89,126,duplex,divorced,False
+2d763536,Blida,5762207,7274759,80,101,apartment,divorced,False
+86c29c4b,Oran,5373464,8490932,95,139,apartment,married,False
+5b86ed17,Oran,7341355,11063979,99,142,villa,single,True
+5a05f03b,Blida,6338755,7903424,91,115,apartment,divorced,False
+8a7f1a4a,Algiers,5841321,7067832,97,157,duplex,married,False
+cdee7174,Bejaia,7876264,9177242,84,137,apartment,divorced,False
+af1d33f1,Algiers,6202147,8753494,90,123,villa,married,True
+97b0a009,Algiers,5540039,7634408,80,133,villa,divorced,False
+636aeab0,Algiers,5698993,7769988,94,132,apartment,married,True
+cf439188,Tizi Ouzou,6237325,9441089,85,113,apartment,single,True
+fc254193,Algiers,6832749,8034277,72,100,duplex,married,True
+2bbbb459,Oran,7528140,11052511,73,132,duplex,single,False
+7ca5a110,Blida,5941837,8910908,93,140,villa,divorced,True
+6407cf78,Algiers,7583342,8882317,81,102,duplex,divorced,False
+aa9a943d,Oran,7536790,9547437,86,109,villa,married,False
+86cc92a9,Tizi Ouzou,7218597,9622512,95,117,apartment,married,True
+b554f001,Blida,7568068,10813707,92,135,duplex,single,True
+18451384,Algiers,6280793,8390512,85,114,villa,single,True
+df09ec85,Blida,7725917,8995363,97,117,apartment,divorced,False
+54a295d9,Blida,6899378,10351417,88,132,duplex,single,False
+58dd4b27,Bejaia,5205054,7837692,71,92,villa,single,True
+54227bcc,Bejaia,5954829,8805385,93,144,duplex,married,True
+46f5c7c7,Algiers,7766010,10605863,90,136,villa,single,False
+313f9723,Algiers,5977570,8136113,84,113,duplex,divorced,True
+adb88035,Bejaia,5624919,8975320,73,132,apartment,single,False
+eff79d76,Algiers,7866456,11605501,97,139,duplex,married,False
+c9ecc8c8,Tizi Ouzou,6728557,10053538,96,118,apartment,single,False
+3af6cf85,Bejaia,5145227,9026100,70,111,apartment,married,True
+f25ec246,Constantine,6401145,7761237,73,133,apartment,single,False
+f7c76492,Bejaia,5490415,7406257,94,133,villa,married,False
+0a81da60,Oran,5686457,8723697,74,119,duplex,divorced,True
+2e7266bb,Bejaia,6522212,9329839,84,109,villa,married,False
+0deee596,Algiers,5824856,7697357,82,142,apartment,divorced,True
+ba36e12b,Bejaia,7912541,10949362,96,152,apartment,divorced,False
+9247745d,Algiers,6856567,9173654,95,130,apartment,divorced,True
+edf97069,Algiers,7596062,9024157,81,112,villa,married,False
+9448473d,Algiers,7863306,9304296,85,119,villa,divorced,False
+1c8c16db,Oran,5441564,8694175,87,139,villa,married,False
+c705b684,Oran,7408799,10336802,94,142,villa,divorced,False
+d66eafdc,Blida,5322334,6686791,80,114,duplex,single,False
+80772b7d,Tizi Ouzou,7156335,10900165,88,129,duplex,single,True
+2508f6cd,Blida,7945171,9396547,84,141,duplex,divorced,True
+cf2656df,Constantine,5351354,6799724,97,130,villa,single,False
+ffd9f4ae,Oran,5451245,7034390,90,117,villa,married,False
+9a7d85f9,Algiers,7241440,11074115,78,134,duplex,divorced,False
+3078d452,Constantine,5474878,8836547,96,139,duplex,divorced,True
+271d9c8b,Oran,6467291,9116854,80,131,villa,divorced,False
+5b64cb3b,Tizi Ouzou,6412237,9863539,72,130,villa,divorced,True
+20508c12,Bejaia,6544561,9115437,71,114,villa,married,False
+99242f67,Constantine,5254917,8996118,70,114,apartment,divorced,False
+1669ed3b,Bejaia,7239990,8923317,84,132,duplex,divorced,True
+f75f238d,Algiers,6374133,7414955,73,127,duplex,divorced,True
+20317d86,Oran,6835165,8646042,74,98,apartment,single,True
+3629f34c,Oran,7287602,10358405,73,125,apartment,divorced,True
+bf0ba7b3,Blida,5303286,7199272,83,126,duplex,married,True
+69e70c3f,Blida,7579032,10567853,94,130,villa,single,False
+8d448b80,Constantine,7533550,9532993,100,135,villa,single,False
+f7f16c30,Constantine,5936415,7316421,91,123,villa,married,False
+45d8a733,Constantine,5874253,8869445,72,122,duplex,married,True
+4ae6dd7b,Algiers,5077775,8435146,92,144,apartment,divorced,False
+acd047fc,Algiers,7406265,8648201,87,125,villa,divorced,True
+b8b1b507,Oran,6234310,9760849,91,114,duplex,married,True
+0b064f4e,Tizi Ouzou,5920627,8400770,72,130,duplex,single,True
+ac49de2f,Oran,5810695,7078591,72,128,villa,single,True
+9589794d,Bejaia,6372456,9657707,76,106,apartment,divorced,False
+00ddec50,Blida,5443802,9402350,71,115,duplex,single,True
+3976570a,Tizi Ouzou,5456028,8722078,84,122,villa,divorced,False
+28c776b8,Bejaia,6378492,9457168,85,132,villa,single,False
+771559bf,Tizi Ouzou,5191362,8165507,79,119,villa,single,False
+09248508,Oran,7464585,11416164,71,95,apartment,married,False
+f157cbec,Algiers,7200970,10826109,85,107,duplex,married,False
+2b8a078b,Oran,6532783,8463012,80,127,duplex,married,False
+8144c37f,Bejaia,6584911,7872633,99,129,villa,married,False
+f7ebab40,Algiers,5931357,8363006,86,126,apartment,married,True
+ce05642e,Blida,5103720,6590678,95,122,apartment,married,False
+e677dc1c,Oran,7284171,10405427,75,122,duplex,divorced,False
+39c8b672,Constantine,6679713,9527428,72,110,duplex,divorced,True
+30d9380f,Bejaia,7618195,8622084,99,140,villa,single,True
+0e5cd053,Algiers,6575508,7898326,78,119,duplex,married,True
+d078118d,Oran,7068653,9374446,80,105,duplex,divorced,False
+74ecbc61,Oran,6258768,10053890,87,143,villa,single,True
+6fe5cdd3,Algiers,6423151,8583783,71,97,villa,single,True
+6f658318,Tizi Ouzou,5348557,7084156,83,138,duplex,divorced,False
+291d7b69,Tizi Ouzou,6749311,9274502,91,149,apartment,divorced,True
+5d28cb67,Algiers,6936547,10517772,98,147,duplex,married,False
+c4883954,Oran,7484934,8775396,74,127,villa,married,True
+e814c578,Algiers,5608072,8478576,84,120,duplex,single,False
+dbe43a9b,Blida,6527653,9739938,95,123,apartment,divorced,False
+3fcb7d4f,Algiers,6950517,9619298,75,107,villa,married,True
+139c18a2,Blida,5236167,7118028,100,126,duplex,divorced,False
+4aae843b,Oran,5061194,6446556,88,141,villa,divorced,True
+898bb115,Algiers,7170585,8560962,91,131,villa,divorced,False
+b4417264,Algiers,6951062,8492140,95,127,villa,divorced,False
+1a54ec2a,Blida,7938365,11296759,83,120,apartment,divorced,False
+15c79431,Bejaia,5161570,6618403,89,125,duplex,single,True
+c3945e60,Blida,7456630,8617575,91,146,villa,married,True
+b39a015a,Bejaia,7734467,10456105,79,118,villa,divorced,True
+1fe897bc,Oran,6234215,8273134,83,115,apartment,single,True
+c7ae6c52,Tizi Ouzou,5597866,6751626,87,125,duplex,divorced,False
+d061f791,Constantine,7550870,10356047,91,126,villa,divorced,True
+086adb27,Tizi Ouzou,5347054,7146975,84,115,apartment,divorced,False
+6cf7a984,Bejaia,6776415,8615184,79,101,duplex,single,True
+28827c2a,Bejaia,6597343,10547860,83,132,apartment,married,False
+20720d7e,Blida,7150952,11034066,70,121,duplex,single,True
+89ec9adf,Oran,7566154,10733213,82,112,duplex,single,False
+b04dfc2f,Blida,5578644,9178743,86,117,duplex,married,True
+9b62d005,Oran,5141532,6711475,72,127,apartment,married,False
+ef5efae0,Algiers,7152870,8564342,99,140,villa,single,True
+281fdb68,Bejaia,5689121,8435709,83,127,duplex,single,False
+08752091,Oran,7496803,9617916,85,114,apartment,married,False
+352b7fae,Bejaia,6212054,9869048,98,146,villa,divorced,False
+9309b84c,Oran,5098210,8598960,73,110,apartment,single,False
+dcdf924f,Bejaia,6029243,8116273,97,126,duplex,married,True
+a9839e0a,Constantine,7492989,9456755,100,137,apartment,single,False
+a77218c8,Oran,7691887,9448017,88,143,villa,single,True
+03a6f2b1,Algiers,7596108,10158506,83,128,duplex,divorced,False
+f35ba737,Bejaia,7986312,9252005,85,123,duplex,single,True
+66c98de1,Bejaia,5130130,7532233,80,137,apartment,divorced,False
+9530c6ec,Tizi Ouzou,7821527,11484362,90,123,villa,married,False
+ff020014,Constantine,5223306,6711465,73,112,duplex,divorced,True
+29f94c5f,Constantine,5433262,8883664,84,134,duplex,divorced,True
+308016fa,Bejaia,5423839,7557433,87,140,duplex,married,False
+50058ec0,Blida,5709777,8298579,89,117,apartment,married,False
+961029ee,Oran,5836833,8049272,97,143,duplex,married,False
+1bda18f5,Bejaia,6005376,8802467,90,143,apartment,single,False
+5e1dad99,Oran,7312377,11243015,85,124,villa,single,False
+18649bee,Constantine,6127590,9022933,86,128,villa,single,True
+de7ff796,Algiers,7822798,9943803,80,108,apartment,divorced,False
+e4cb0730,Constantine,6692456,9255231,86,109,duplex,single,True
+7931336d,Algiers,5413736,7065148,83,111,villa,single,True
+3cd14c6b,Algiers,6211405,7817294,77,111,villa,divorced,True
+c21a5586,Bejaia,7243881,9493628,99,125,villa,single,True
+edbb15d2,Bejaia,5118673,6122553,97,141,apartment,divorced,False
+586310ce,Blida,6264618,8149052,73,100,villa,single,True
+5f431090,Oran,7544606,8635241,80,114,duplex,married,False
+b8f0f6cf,Oran,6930457,9784015,73,123,apartment,single,True
+a3aadd99,Bejaia,6111275,9658547,95,140,apartment,married,False
+b5d24755,Algiers,7446656,9838313,71,100,duplex,divorced,True
+cfec4623,Oran,7383044,11096317,85,119,villa,divorced,False
+afc7ef33,Bejaia,6439829,8779235,83,126,duplex,divorced,True
+d630640b,Bejaia,6145709,8907980,74,127,apartment,single,False
+2f8e37aa,Tizi Ouzou,5037481,8107306,75,123,duplex,divorced,False
+707adafd,Tizi Ouzou,7762975,11349768,88,134,duplex,divorced,True
+ee368e72,Blida,5305020,6396120,87,108,duplex,single,True
+1e390862,Constantine,6191367,7244053,70,106,duplex,married,True
+78f14b94,Constantine,7379697,9435927,73,120,villa,divorced,False
+df7511b5,Blida,7481671,9440324,80,114,duplex,single,False
+8812a1da,Algiers,7249147,10960119,92,152,duplex,married,False
+b19697f1,Oran,5385413,7610371,70,127,duplex,married,False
+336c0313,Constantine,7876680,10872616,97,131,apartment,divorced,False
+b3169d99,Tizi Ouzou,6963358,8603987,86,112,duplex,married,True
+bb1334bc,Blida,5874718,7593833,81,132,apartment,divorced,False
+e7b3c1c7,Bejaia,7961002,9946319,79,110,villa,single,False
+d2b0cac4,Algiers,6362720,8218221,73,120,apartment,married,False
+73119e81,Oran,6839733,10768347,81,138,apartment,married,True
+f09fb3ed,Blida,7084237,9854080,80,121,villa,divorced,True
+4963f6c7,Tizi Ouzou,5495258,6631879,98,119,duplex,married,True
+eebd9f64,Blida,6303205,8555497,87,142,apartment,married,False
+44d447f9,Constantine,6819431,10162169,96,124,villa,single,True
+67909dd7,Algiers,5680925,9100557,85,141,apartment,married,True
+90f4e25d,Constantine,5854489,8367914,80,119,duplex,single,True
+033d9cbd,Algiers,5240672,8451725,85,106,villa,divorced,False
+9f842a14,Constantine,7281829,10521790,79,133,duplex,married,False
+716aa0e5,Bejaia,7730771,9202228,84,118,duplex,divorced,False
+c0627a9f,Algiers,6736819,8654755,99,133,duplex,divorced,False
+5780424d,Bejaia,5178555,7127448,76,96,villa,married,True
+9ecf617c,Constantine,6210411,8512299,100,130,apartment,divorced,False
+3f63c5cb,Bejaia,5617879,7506600,90,148,villa,married,False
+57678bd0,Bejaia,5923436,9796657,79,105,apartment,divorced,True
+0ec178d2,Constantine,7051786,10054348,80,134,duplex,married,False
+4d45258b,Tizi Ouzou,5448925,8034548,94,153,apartment,married,True
+2b194665,Tizi Ouzou,7712822,10939301,76,108,apartment,married,False
+d88de562,Oran,6567564,9796394,92,120,duplex,divorced,True
+423de90d,Bejaia,5319645,8462972,70,118,apartment,single,False
+8893a6eb,Tizi Ouzou,6344035,9292543,76,129,villa,married,True
+205d83bb,Bejaia,6490835,9563927,76,127,apartment,married,True
+dffd957c,Algiers,7537204,10014030,75,107,villa,divorced,True
+76b9237b,Constantine,7935840,9978443,97,126,duplex,married,True
+dcd9f060,Tizi Ouzou,7110885,10731452,95,133,duplex,single,True
+e0cbce9d,Oran,6614003,9180908,92,150,duplex,single,False
+5bbd52e1,Bejaia,7246554,11007009,87,142,villa,married,True
+cdfab023,Constantine,7440381,9913850,79,139,apartment,divorced,True
+e7f83869,Blida,7666994,10156063,85,142,apartment,single,True
+d1e128a1,Constantine,7780801,9805215,80,103,apartment,single,True
+cbceb483,Bejaia,7626399,9054289,81,125,apartment,divorced,False
+9771de8c,Bejaia,7068649,10826118,77,125,apartment,single,False
+63f18ded,Constantine,6427624,10394577,79,115,villa,divorced,False
+399f179a,Bejaia,5479244,7307658,75,118,villa,single,False
+368af6c9,Tizi Ouzou,5878049,8825564,78,112,apartment,married,False
+31477bd0,Constantine,5179202,8557502,84,124,apartment,divorced,False
+308e701e,Oran,5200696,7377715,93,127,apartment,divorced,False
+ddffde29,Tizi Ouzou,7618434,9294937,89,147,duplex,married,True
+d9575e5c,Algiers,5075246,6330927,79,133,duplex,divorced,False
+2a1a9e60,Oran,7441034,9275327,83,121,apartment,married,False
+2bfccc18,Constantine,6091568,7904982,76,115,duplex,divorced,True
+e2c18cf4,Oran,5935906,9613954,94,144,villa,married,True
+489004a6,Algiers,6042726,8710342,92,144,apartment,married,True
+5aeec065,Algiers,5178430,8885373,94,133,duplex,single,True
+649d629a,Oran,7083135,9810036,70,129,duplex,married,False
+e07541f9,Tizi Ouzou,5249468,7692023,99,155,villa,divorced,True
+55bf7b92,Tizi Ouzou,5890620,8124611,86,144,apartment,single,True
+d3324e20,Algiers,7932125,9794005,82,128,duplex,divorced,True
+3f0fa3c3,Tizi Ouzou,7473768,8568173,88,145,duplex,married,False
+55e9602a,Blida,6681854,8897554,70,111,villa,single,True
+3b3b34eb,Tizi Ouzou,7733896,11010042,83,120,apartment,divorced,False
+7c980090,Tizi Ouzou,6450348,10097565,75,103,apartment,divorced,False
+f47ef97c,Bejaia,6821567,10671617,85,124,apartment,married,True
+54994cbb,Blida,7660317,11049967,92,145,villa,single,False
+8a79f29d,Bejaia,5658420,8886122,88,134,apartment,single,True
+b4439c3f,Algiers,6155034,9563529,72,93,duplex,single,True
+448e7532,Blida,5085969,6946559,90,124,duplex,married,False
+1fe9bc49,Tizi Ouzou,6139513,9716309,100,133,villa,single,True
+5c1d9769,Tizi Ouzou,7437943,9744154,91,150,duplex,married,False
+a06b8bd3,Blida,6411666,8668914,76,127,duplex,married,True
+0676d949,Blida,6263738,7900415,81,115,duplex,single,True
+eeff741b,Tizi Ouzou,6453069,8493875,90,123,duplex,single,False
+52d6c1b4,Tizi Ouzou,7447179,10516380,92,113,duplex,divorced,True
+c17c0215,Oran,5699295,9152405,97,142,villa,single,True
+26ceac61,Algiers,7396267,10298332,76,102,duplex,divorced,False
+6153a7d6,Blida,5198257,6355924,89,134,duplex,married,True
+6a77c154,Bejaia,6309541,10168173,85,116,duplex,divorced,True
+56f6d799,Oran,5003360,6581046,71,92,duplex,married,True
+50cb7f77,Tizi Ouzou,6385092,8027607,90,140,apartment,single,True
+7d216b8a,Bejaia,6238388,8153110,98,149,apartment,single,False
+79b11716,Bejaia,7399292,10569647,94,133,apartment,single,False
+a7548257,Constantine,5440878,7605454,95,129,duplex,single,True
+0a4556ed,Blida,6486082,10466171,77,123,apartment,single,False
+fe2351fa,Algiers,5836254,9406485,93,139,duplex,single,False
+6b259ac0,Tizi Ouzou,7491486,9301689,87,118,duplex,married,True
+7acb0333,Oran,7250055,11086409,83,138,apartment,divorced,False
+33a4d4fa,Tizi Ouzou,6327018,7336665,71,122,villa,divorced,False
+3552a5a6,Oran,5658551,8134317,76,100,apartment,single,True
+d552f8d2,Constantine,7513020,8890485,75,120,villa,single,True
+046447ff,Algiers,7528182,10429903,87,123,duplex,married,False
+e087bba2,Constantine,6466673,7695508,74,101,apartment,married,True
+6deed616,Blida,6011781,7958881,91,134,apartment,married,True
+0f2b50d1,Bejaia,7802123,11328021,90,127,apartment,single,False
+df45b569,Tizi Ouzou,6573333,8171762,79,107,apartment,married,False
+8ebb3e8f,Bejaia,7858490,9336219,96,150,villa,single,True
+02a0e1c8,Constantine,7766294,11535311,89,143,duplex,married,True
+3c7e1c8b,Tizi Ouzou,7024613,8343297,70,121,duplex,divorced,False
+d0b839f5,Bejaia,6425265,9190184,82,103,apartment,married,False
+caea8ab4,Blida,5150278,6721057,98,136,villa,married,True
+7ce7355d,Tizi Ouzou,6181152,9036785,77,122,villa,married,False
+16a5206b,Tizi Ouzou,5158924,8228123,83,135,duplex,divorced,True
+71f89e37,Oran,6428079,8283409,86,117,apartment,divorced,False
+aae93597,Algiers,5668059,6846316,74,100,duplex,divorced,True
+a510561d,Oran,5192040,7922089,92,119,duplex,divorced,False
+3602be62,Oran,6439240,9063033,85,123,apartment,married,False
+00187ccc,Oran,7629069,8761960,92,120,villa,single,True
+6d1673bd,Oran,5705578,8596966,95,150,apartment,divorced,False
+ab9f5c2d,Oran,7398886,10817223,96,125,apartment,single,True
+25b6efea,Tizi Ouzou,7916654,11243231,91,132,villa,divorced,False
+7f3351fa,Constantine,6624607,9968040,77,128,villa,single,False
+3a6b69a2,Bejaia,5359383,7629452,91,124,duplex,married,False
+f344f080,Constantine,5118478,8916125,100,145,duplex,married,True
+bfcbfc55,Blida,6869415,10538028,82,103,duplex,divorced,True
+fee33ebc,Oran,7821346,10232345,100,136,duplex,divorced,False
+ed9cebb4,Bejaia,6354825,8502563,81,140,apartment,married,False
+7afd7b55,Tizi Ouzou,5767625,9295263,82,132,villa,single,True
+4b8290fb,Bejaia,7564382,9305142,74,108,apartment,single,False
+490d9120,Algiers,6479250,8059101,95,136,apartment,single,False
+53b0e928,Tizi Ouzou,6520274,8986351,84,138,duplex,divorced,True
+98cdd4e4,Algiers,7259452,11049283,86,108,apartment,divorced,False
+380ff286,Bejaia,7945025,9254344,77,117,duplex,single,False
+9acddd8d,Blida,5433086,8693682,96,155,apartment,single,True
+3aa9c88b,Algiers,5983708,7740992,92,149,duplex,divorced,False
+a92713e5,Oran,7182529,10976292,96,145,villa,single,False
+a3f47b4c,Tizi Ouzou,6906187,9958894,88,145,duplex,married,False
+17fa5b46,Blida,7776608,9564427,73,102,duplex,married,False
+7b707501,Blida,7380288,9356402,88,120,duplex,divorced,True
+5dafd460,Algiers,5415791,8598528,81,120,villa,married,True
+0ccdf755,Bejaia,7115951,8248997,77,107,apartment,divorced,True
+08475593,Blida,5081508,6308237,82,142,apartment,married,False
+7b159a69,Constantine,5635313,9431844,79,137,apartment,single,True
+11a77126,Algiers,7678274,10859111,87,107,duplex,divorced,False
+21b56eeb,Tizi Ouzou,7538477,9730110,80,137,apartment,single,False
+c4ac27d9,Constantine,7003287,9301035,73,102,duplex,married,False
+a94bf82a,Constantine,5920922,9377184,81,116,apartment,married,True
+37fd79a2,Bejaia,7834060,10335551,90,150,apartment,married,False
+697e1cf0,Bejaia,5346647,8762197,95,120,villa,divorced,False
+07ea299d,Bejaia,6471089,8202162,86,106,apartment,single,False
+c249a13a,Algiers,7287184,10287589,81,113,duplex,single,True
+0ac8a666,Algiers,6853951,9656137,71,97,apartment,single,True
+1be4c45e,Algiers,6484123,8870332,91,113,duplex,divorced,False
+64bfe452,Oran,7668487,10478013,100,158,duplex,married,False
+3de775e1,Constantine,5535651,8983216,93,128,duplex,married,True
+7e773ab5,Tizi Ouzou,5610817,8888439,86,119,villa,married,False
+7c32282b,Oran,5403675,9019809,78,137,villa,divorced,False
+3a8e9997,Oran,7489124,10713159,76,130,apartment,divorced,False
+7bc67e0c,Oran,6297543,8805122,82,136,duplex,single,False
+7efea73d,Bejaia,6158441,9770344,70,90,villa,divorced,False
+c462d6b2,Constantine,7264812,10878211,99,128,duplex,single,True
+88aea4dd,Constantine,6908373,8501667,92,144,duplex,single,False
+2c3a8b56,Algiers,5171540,8807421,80,140,duplex,divorced,False
+9bedd6b6,Blida,5252381,7033591,85,131,villa,married,False
+b206eb11,Oran,6273575,9944446,75,122,duplex,married,True
+ad60f0c1,Bejaia,6354480,9845951,86,136,apartment,married,True
+452537ec,Algiers,7095784,9475361,96,140,apartment,divorced,True
+dc7c879b,Algiers,6248967,8663302,91,137,apartment,divorced,True
+7561037b,Tizi Ouzou,6308938,8665960,100,122,villa,divorced,False
+2baae1a8,Blida,6125390,9810590,78,125,villa,single,True
+efb8f621,Constantine,6113095,7440396,98,152,duplex,married,True
+4934333e,Constantine,6190859,8152661,82,108,villa,married,True
+556f584b,Constantine,5364627,9347090,85,124,duplex,single,True
+d796fd45,Algiers,7925242,10660756,84,140,villa,single,False
+ddcd84ed,Algiers,6017337,8740038,95,122,villa,single,True
+e01b7d49,Bejaia,6966906,9495360,77,120,apartment,single,True
+386e284e,Oran,6031922,9049959,85,134,villa,married,False
+a7d039a3,Blida,5539006,7763900,82,127,apartment,single,True
+a0622f9f,Algiers,7172025,11107846,85,129,villa,single,False
+d150e9d8,Constantine,5769339,7884624,74,104,villa,single,False
+55f5a5db,Oran,5836874,9634326,75,96,apartment,married,False
+3a5cc6ae,Constantine,7830349,11504220,85,112,villa,single,True
+a2898212,Oran,5095221,6338363,89,121,apartment,divorced,False
+44ffa4e3,Blida,7643574,9767359,88,113,villa,divorced,True
+a79bb19e,Blida,5636390,7543707,97,134,villa,divorced,True
+c52e5ee1,Blida,7708295,10258359,85,105,villa,married,False
+1b818934,Algiers,7956484,11860877,96,132,villa,single,True
+c0687fbc,Oran,6236072,8116431,94,128,duplex,divorced,False
+cd7a84a2,Blida,7777412,9929546,95,140,villa,single,True
+f33c8147,Algiers,7235301,11003909,95,137,apartment,married,True
+526aecd1,Algiers,6871675,8222257,93,148,apartment,single,False
+4c776517,Constantine,5225772,8890635,96,120,duplex,divorced,False
+df2469e1,Bejaia,5658327,8445884,72,117,apartment,divorced,True
+5636cbc0,Algiers,7597553,11513784,71,100,villa,single,False
+1affc0a4,Blida,6193229,7824380,81,103,apartment,married,True
+9ee6d72a,Tizi Ouzou,6069424,8153981,100,125,apartment,divorced,True
+21924877,Algiers,7984312,9329620,93,135,villa,married,True
+2cbaebd6,Blida,5792157,7189012,79,114,villa,married,False
+0b3c9382,Tizi Ouzou,7284327,10884788,86,145,villa,married,True
+ca261ec7,Blida,5878677,7192957,94,144,apartment,divorced,False
+64251876,Algiers,7014740,10622196,86,107,apartment,single,True
+c0d9b46b,Tizi Ouzou,7419314,10027754,86,118,apartment,married,False
+34f18112,Oran,7047425,9679124,75,112,apartment,married,True
+389eb4d6,Oran,6258312,8345555,82,137,villa,married,True
+aa749d66,Tizi Ouzou,5051585,8300685,100,143,apartment,single,False
+8c31b00a,Constantine,5175258,7823282,98,127,duplex,married,False
+d8cbfc23,Algiers,7960141,9219893,72,108,duplex,married,False
+9927dfd1,Blida,7078729,10497878,96,144,duplex,married,True
+c5200aa6,Bejaia,5281130,9051628,87,113,apartment,divorced,True
+89488318,Bejaia,7081910,9596141,75,124,duplex,single,False
+a901c802,Constantine,5935619,8496437,87,116,apartment,married,False
+592fd1a1,Oran,6151289,9933323,93,118,apartment,divorced,False
+2e3f048f,Constantine,7491984,10460567,94,152,villa,divorced,False
+e24cb4a4,Constantine,6565277,7974493,87,146,duplex,single,False
+f70cccfa,Bejaia,5180190,7087148,79,134,apartment,married,False
+cf711dd0,Constantine,5467233,9276204,73,115,villa,single,True
+1246f6c7,Blida,5579390,8276425,80,136,villa,divorced,False
+869c74dd,Oran,5063480,6837899,76,117,duplex,divorced,False
+da570f75,Oran,6316790,8811029,90,131,duplex,divorced,True
+5a5ad9f7,Algiers,5579337,6709574,91,138,villa,married,True
+964b2ccb,Algiers,6071309,9909680,90,132,villa,single,True
+d4056204,Bejaia,6828540,9410698,72,121,villa,divorced,False
+71b2b7d9,Algiers,7812598,9147909,89,127,apartment,divorced,True
+2f2b8bad,Oran,6080236,7772985,86,128,villa,single,False
+2611c314,Tizi Ouzou,7724204,9825310,83,103,villa,single,False
+94fe7337,Oran,5280676,6298446,72,125,duplex,married,True
+0b1fdac8,Tizi Ouzou,7052513,9263684,90,127,villa,single,False
+5647e499,Algiers,7698925,9899826,84,109,apartment,married,True
+ac2b0e8a,Tizi Ouzou,5337480,9267956,97,138,villa,single,True
+ccc47b5e,Algiers,6141068,9019480,93,122,villa,married,False
+3bb85830,Oran,5832000,7283457,72,122,duplex,divorced,True
+f28f08f0,Blida,6224891,9542131,88,135,apartment,single,False
+2395a631,Algiers,7692996,10013386,99,137,villa,divorced,False
+84e22784,Bejaia,5309816,9265717,70,118,villa,single,True
+69a00a6d,Blida,6026769,8550438,79,134,duplex,single,True
+ad6cf96b,Blida,5325356,9296501,84,128,apartment,divorced,True
+0d8959a0,Bejaia,5769428,9022243,73,116,villa,divorced,True
+8e1a19b0,Constantine,7669598,11028443,85,125,duplex,married,True
+5ea8c2cc,Bejaia,6180873,7589917,100,153,apartment,divorced,True
+b93c70d4,Algiers,6052135,7743938,93,116,duplex,single,True
+4b9bfe3b,Bejaia,6956532,9833989,98,129,villa,divorced,False
+d58916f6,Blida,7798619,11646554,82,133,apartment,married,False
+b157f77a,Tizi Ouzou,6723967,10063336,100,143,apartment,divorced,False
+b5ed4d1f,Oran,6374947,8464166,94,130,duplex,married,True
+4ad8b66d,Bejaia,7112848,10011346,85,132,duplex,single,False
+00639671,Algiers,7364928,9601844,85,122,duplex,single,False
+1b320cf7,Blida,6235692,8204760,75,125,apartment,single,True
+5dc543d7,Constantine,5410972,8613942,84,108,duplex,single,True
+7a34bd21,Algiers,7119856,8236409,98,152,duplex,married,True
+9da4fd2b,Blida,5894398,9452463,92,138,duplex,divorced,True
+b1e71925,Bejaia,6666145,8876718,81,110,villa,single,True
+4dac2d8d,Algiers,6311776,8388578,90,111,villa,single,True
+74aa65d3,Oran,7555447,11032590,71,104,villa,divorced,True
+b3cfcf62,Bejaia,5293891,7413943,98,139,apartment,divorced,True
+243f3552,Tizi Ouzou,5502757,9490230,84,124,villa,married,False
+837084e9,Oran,6316909,9710692,70,115,villa,married,True
+428fe870,Constantine,7029354,10265899,100,127,duplex,married,False
+6db12fe7,Blida,7476249,11143218,76,128,villa,divorced,True
+fe0ffe3f,Blida,7295400,11015459,96,142,apartment,married,True
+6cc4d926,Oran,6086937,8704864,93,126,duplex,single,False
+85b8c032,Blida,7980474,11651375,87,123,villa,married,True
+fa6aad29,Tizi Ouzou,6570063,7665759,97,126,duplex,married,True
+60455038,Blida,6896778,9606548,100,152,villa,single,True
+dec8bec3,Algiers,7023016,8538405,75,98,villa,divorced,True
+df277b3b,Constantine,6062351,7071496,73,115,apartment,divorced,True
+b6f0cc72,Bejaia,5759634,8839944,94,144,villa,single,True
+8db18992,Oran,7144376,8783917,98,145,apartment,married,True
+a3e05d15,Bejaia,5036548,7359060,86,109,villa,divorced,True
+c8f0bb77,Blida,7726045,11550920,76,108,duplex,single,False
+a59208a9,Bejaia,7069765,10558877,94,123,duplex,divorced,False
+f6e5b442,Tizi Ouzou,7450737,9865715,73,104,apartment,single,False
+40cffe4b,Oran,6371495,10009913,82,115,apartment,divorced,False
+60f16c34,Blida,6466141,8885591,85,123,duplex,single,False
+9af83102,Tizi Ouzou,5584771,9285962,79,139,duplex,married,True
+bfd60fa3,Bejaia,6437870,7496998,77,133,duplex,single,False
+a935213b,Tizi Ouzou,5648362,6978445,73,118,villa,single,False
+4ec52a33,Bejaia,5040538,8477388,76,125,apartment,divorced,True
+3d5d6da5,Oran,6834118,8386677,92,135,duplex,divorced,True
+9328ef8f,Bejaia,7184433,8786707,75,129,duplex,single,True
+7a9c8264,Algiers,7818059,10291882,71,120,apartment,single,True
+dcedf07f,Constantine,6192359,7846859,84,104,duplex,divorced,True
+aef6da49,Blida,5970110,9526404,96,117,villa,single,True
+7a035ad9,Tizi Ouzou,5174384,6970793,74,128,apartment,divorced,False
+cdc0d493,Algiers,6730590,8046165,99,140,villa,married,False
+9f793da4,Bejaia,5687173,8406368,84,136,apartment,single,True
+b5712ed3,Tizi Ouzou,5849398,7882300,84,137,villa,divorced,True
+7e29745f,Constantine,5562170,8865023,74,134,apartment,divorced,True
+83f1a490,Blida,7624596,9933290,84,115,villa,married,False
+08f6fc42,Oran,6562098,8339190,88,142,villa,married,False
+d1810c50,Oran,6171172,8735817,93,147,villa,married,True
+22caa3f9,Blida,6613553,9617228,82,108,apartment,married,False
+12a29563,Oran,6933767,8743040,93,147,apartment,married,False
+afa4d7f1,Blida,5155176,6251163,92,124,villa,divorced,False
+8d7defb8,Algiers,6029716,8962475,89,128,apartment,married,True
+2a048214,Oran,6477273,8849482,82,126,duplex,divorced,True
+0319a3b1,Tizi Ouzou,7654703,9652142,83,124,duplex,single,False
+728eb687,Bejaia,6902143,8039444,89,111,apartment,single,False
+a7a6b0e0,Blida,6225449,8240080,92,114,apartment,single,True
+c38ecac6,Blida,7510528,10034700,83,136,villa,married,False
+a4000e71,Oran,6389339,9267630,74,105,villa,divorced,False
+e1fe2a45,Oran,6815318,10169534,76,109,villa,divorced,True
+fe541b03,Blida,5757477,7280864,94,134,apartment,single,True
+6cb03e18,Constantine,6146939,9940960,86,139,duplex,divorced,True
+037a5803,Bejaia,5404582,6488218,84,116,apartment,single,False
+1efb9368,Bejaia,5613198,9474959,80,132,apartment,married,False
+4099ea15,Oran,7295968,9616564,70,100,duplex,single,True
+287a521e,Tizi Ouzou,7839067,9419406,97,118,duplex,divorced,True
+b63673a9,Oran,5042542,6720709,71,127,duplex,divorced,True
+4c098e10,Oran,6257881,8785677,88,116,duplex,married,False
+02091ed4,Tizi Ouzou,7632965,11113127,96,118,duplex,single,False
+de561e7f,Bejaia,7890476,10636281,77,113,villa,divorced,True
+ced60af6,Oran,5822596,8092102,82,105,duplex,single,True
+e9e7f24c,Algiers,5464319,8936794,75,110,villa,married,True
+7d3cdac0,Constantine,7347914,9862947,79,128,apartment,single,True
+687e3cce,Tizi Ouzou,6674622,8959253,91,130,duplex,single,False
+ea367aa2,Blida,5528925,7695480,78,128,duplex,single,False
+092a0e9d,Constantine,7877399,10319214,82,126,apartment,single,True
+77218c42,Algiers,7138682,10630995,86,143,apartment,single,False
+c728a6c5,Tizi Ouzou,5369953,7139403,96,152,apartment,divorced,True
+302f907b,Blida,5286866,8109876,97,148,apartment,single,False
+9a4c38fd,Bejaia,6240132,8314046,100,130,duplex,married,True
+135cbc0d,Tizi Ouzou,7031718,8498930,87,107,apartment,married,False
+36a5853e,Algiers,7720509,9174034,90,143,apartment,married,False
+51a6da3d,Bejaia,5476217,7685544,73,105,apartment,married,True
+728e7841,Constantine,6124054,8850132,87,137,villa,married,False
+6a97d542,Oran,7581967,9924905,76,100,apartment,divorced,False
+86e3f037,Algiers,5384883,7114108,97,118,villa,married,True
+47e99525,Bejaia,6167048,9796204,77,107,duplex,single,False
+a25bdc53,Tizi Ouzou,7760375,8973148,70,125,villa,married,False
+ac07fd67,Oran,5888481,7238025,81,101,apartment,married,False
+76f330eb,Tizi Ouzou,6085596,9525195,96,140,apartment,divorced,True
+8d26ab27,Blida,7134338,8274310,77,102,apartment,divorced,True
+47abc2c2,Tizi Ouzou,7219722,9055340,95,145,villa,married,False
+8437ba12,Blida,6736432,9352552,89,118,villa,single,False
+d4dbfe73,Tizi Ouzou,7950459,10791381,97,131,duplex,married,True
+36ec4598,Oran,7143628,10453606,91,127,duplex,married,False
+b5a2a34b,Oran,5235474,9066910,96,132,apartment,single,True
+b95c698c,Blida,7290354,10535950,99,139,villa,married,False
+bfe03654,Constantine,5925705,9375035,86,144,apartment,married,False
+c29ae86d,Blida,5914527,8946823,90,132,apartment,divorced,False
+784eff57,Bejaia,6482622,8819575,91,141,duplex,divorced,True
+a6e12255,Tizi Ouzou,7137604,8792363,97,126,villa,divorced,True
+c0e18b24,Algiers,6849267,9203406,97,122,duplex,single,False
+3974556a,Constantine,7805222,10575143,95,134,duplex,single,False
+55d60b6a,Bejaia,6531255,10024507,84,131,villa,divorced,True
+9d83adb6,Bejaia,6312818,9605005,84,120,duplex,single,True
+c8e953b6,Algiers,7815572,8855742,79,138,villa,divorced,True
+b43fb869,Constantine,5332665,8510301,88,130,duplex,married,True
+1fb257c9,Blida,7093350,9628602,79,131,villa,divorced,False
+43fad21b,Tizi Ouzou,5221383,9220338,97,120,villa,married,False
+9c78426a,Algiers,6538613,10406093,78,115,duplex,married,False
+5dd172e0,Blida,6474214,8343661,92,152,villa,divorced,False
+d7b28a33,Constantine,5596829,6720704,85,113,apartment,divorced,False
+886f87b9,Bejaia,6120348,9713012,80,105,duplex,married,False
+296a9586,Algiers,7778338,9572827,97,154,apartment,divorced,False
+0cc1b0ca,Oran,6539858,7783800,94,125,duplex,married,True
+b94321ed,Algiers,7423959,8624417,78,116,duplex,single,False
+ac39a999,Algiers,5226491,7387958,88,139,villa,divorced,True
+11e69d7c,Algiers,6194420,9694931,100,149,apartment,single,True
+fec68eeb,Blida,7779177,9910967,95,121,duplex,married,False
+3c1ac650,Tizi Ouzou,6396592,8452659,79,100,apartment,married,False
+0d2039bb,Algiers,5977333,9191264,81,106,duplex,married,True
+a25dc73c,Bejaia,6626618,9143022,88,126,apartment,divorced,False
+55110099,Oran,6998942,8174071,80,111,apartment,married,False
+d60a7876,Algiers,6106407,10076548,96,153,duplex,single,True
+75da1d8e,Blida,7612817,10674238,99,154,villa,married,False
+c21f3c40,Algiers,7574065,9067974,76,112,apartment,single,True
+914e6b42,Bejaia,5509756,9299489,81,122,duplex,divorced,False
+474d47cf,Blida,5465802,8523368,76,104,apartment,single,True
+110b7487,Algiers,7106428,9303887,85,117,villa,married,True
+9170b523,Blida,7416384,10388264,81,105,apartment,single,False
+4b2a50dc,Bejaia,6040020,9876144,98,131,apartment,single,False
+a539bdad,Constantine,5476789,9265967,81,113,villa,single,False
+74e2949c,Constantine,7872819,9306423,95,144,villa,married,True
+38499446,Oran,5359141,8795276,96,150,villa,married,False
+63986a9e,Constantine,7682056,8845102,100,127,villa,married,False
+9d6053fb,Blida,5193415,8679523,79,114,villa,single,False
+eb09670d,Oran,6423769,8799453,87,136,duplex,divorced,True
+81a8dc33,Oran,7813906,10090372,95,153,duplex,divorced,True
+20e29048,Oran,7554868,8829540,72,112,duplex,single,True
+0e7e4972,Constantine,6642697,9906227,89,144,apartment,single,True
+eee82209,Constantine,6142323,9279058,91,120,villa,married,False
+6ce4918f,Algiers,5689377,7989517,77,130,apartment,divorced,True
+91523033,Oran,7294053,8395931,92,130,duplex,divorced,True
+171e5477,Bejaia,7183939,8466123,83,136,apartment,divorced,True
+2f725a7c,Oran,6011523,9585656,84,133,villa,single,False
+b290ebc6,Oran,6252674,7274697,83,118,villa,divorced,True
+738c6f2e,Constantine,7756898,10292875,72,94,apartment,single,True
+ac2fe5a7,Bejaia,5581550,8633031,77,124,duplex,single,True
+1cae52e2,Blida,6556266,9563765,93,135,duplex,divorced,False
+53862f35,Oran,5271969,7310580,92,149,apartment,divorced,True
+bb88ea62,Blida,5164049,7571504,93,114,apartment,married,True
+c58db419,Bejaia,6248996,10072774,95,148,villa,single,False
+3fcba239,Constantine,6073634,8710374,97,132,villa,married,False
+5ba9f2df,Constantine,6578788,8683735,77,134,villa,single,False
+b5a16550,Oran,7175649,10407486,78,130,duplex,divorced,True
+f942a2d1,Constantine,5089529,7536236,72,120,duplex,married,False
+d9081f25,Algiers,5250609,8003705,85,138,villa,divorced,False
+318000e0,Bejaia,6177234,9280068,93,149,duplex,single,False
+f0666957,Tizi Ouzou,6061690,9900618,92,134,duplex,married,True
+45fe0bcd,Tizi Ouzou,5874519,7081231,97,140,apartment,single,False
+4eee0205,Constantine,6901643,8314303,84,115,duplex,single,False
+8cec336c,Tizi Ouzou,5941178,9889121,75,109,villa,single,True
+f2753f82,Constantine,6607920,10068590,100,157,apartment,single,True
+0e51153d,Algiers,5118206,8171922,75,131,apartment,divorced,True
+6815702a,Oran,6168934,8561960,96,121,villa,divorced,True
+ba2a64fc,Blida,5176168,7973418,91,142,duplex,married,False
+22fd9678,Oran,6168425,8770922,95,134,apartment,divorced,False
+900007b1,Tizi Ouzou,7764356,10113358,94,145,villa,single,True
+2a978c4f,Blida,7321782,9244782,74,127,villa,divorced,False
+75b601ec,Blida,7089121,9025790,92,128,apartment,single,False
+ace50b54,Bejaia,7762352,9918220,83,115,apartment,single,False
+eff0bbd7,Bejaia,7159831,9763353,70,99,villa,divorced,False
+76eb60f5,Blida,7027940,8087957,83,137,villa,divorced,True
+dcdf478a,Constantine,6050782,7358938,86,121,duplex,married,True
+1ec82491,Tizi Ouzou,6215399,10128507,95,115,apartment,married,True
+18617c1f,Tizi Ouzou,6228321,8029443,90,121,duplex,married,False
+1d075613,Constantine,6877327,7922399,86,144,villa,married,True
+f123adae,Blida,7070428,9811111,80,131,villa,married,True
+31019e25,Algiers,6229590,9253341,95,138,villa,single,False
+b43fe61e,Bejaia,5727309,9557763,87,116,apartment,single,True
+7a3a52e6,Blida,6504186,7742727,96,153,duplex,divorced,True
+45a6bd62,Blida,5103246,7452546,76,109,apartment,married,True
+fac8099e,Constantine,7566372,9661062,85,118,apartment,single,False
+9be2ae94,Algiers,7248692,8743235,72,93,villa,divorced,False
+5c768963,Blida,7471546,8892795,75,117,apartment,married,False
+d06a9f3e,Oran,6330615,8835077,83,133,villa,married,True
+287dae08,Blida,6914868,10096318,91,119,apartment,single,False
+c27813b2,Constantine,6176845,8370952,89,112,apartment,divorced,False
+7c348cc9,Bejaia,5909141,7281109,83,131,apartment,divorced,False
+f330182d,Algiers,7660410,10439109,100,123,villa,divorced,False
+425b2997,Oran,6650057,8278615,76,116,villa,single,False
+4736b948,Blida,6600531,10591198,92,150,apartment,married,False
+5c10a87e,Constantine,7639583,9337344,87,134,apartment,divorced,True
+56ee46fd,Tizi Ouzou,5916553,9910989,78,138,villa,divorced,True
+cbb15444,Algiers,5186644,6449087,85,126,apartment,single,False
+1a3c2a9a,Constantine,6910648,9299096,79,130,duplex,divorced,True
+2377123c,Constantine,7026869,10387879,99,144,villa,divorced,True
+0bddd04e,Algiers,7575125,9223555,78,118,apartment,single,True
+eedbd71f,Oran,6489590,10050126,76,101,duplex,divorced,True
+3d171f61,Constantine,7758407,10018202,93,145,villa,single,False
+8ada999d,Oran,7395050,10119575,85,139,villa,married,True
+ddd09551,Oran,6642108,8393485,73,132,villa,single,True
+39ebcae5,Tizi Ouzou,6806939,8556530,85,135,duplex,divorced,False
+87e24907,Oran,7955373,10332203,98,119,villa,married,False
+83d8daf2,Oran,6705232,8099206,92,128,villa,single,False
+e7211a0a,Algiers,5680295,7772870,70,100,duplex,single,False
+1e3d8bce,Tizi Ouzou,5835511,7906063,86,133,duplex,married,True
+f37115db,Oran,6827900,9908461,78,113,apartment,divorced,True
+02717748,Algiers,6414356,9860876,85,143,villa,divorced,True
+f23eb25d,Oran,5533179,8853324,89,129,apartment,divorced,True
+4f31871c,Tizi Ouzou,6852837,8531810,84,112,duplex,married,False
+0a6867b0,Bejaia,6925857,8272330,77,126,duplex,single,True
+fcf488e4,Constantine,6488680,8775895,100,150,duplex,single,False
+2e35e8cd,Oran,6734143,9735993,87,114,apartment,divorced,False
+a744e3ef,Tizi Ouzou,6127944,9706971,81,134,villa,divorced,True
+3043f779,Constantine,7641323,11179119,79,134,duplex,married,False
+51f2d75a,Bejaia,6769542,9392060,72,97,duplex,divorced,True
+104d4e49,Constantine,5407779,8501544,90,120,apartment,married,True
+62cc445d,Bejaia,5406937,6452643,76,117,apartment,divorced,False
+71c5d5c8,Constantine,5409952,8095490,81,124,apartment,single,False
+a167e913,Oran,5033361,6159784,86,119,apartment,single,False
+1c6e06c1,Blida,6572094,10196664,76,108,duplex,divorced,False
+128f953b,Blida,7244586,9370438,100,159,apartment,single,True
+a9b7c633,Algiers,6569324,10294242,71,94,duplex,divorced,True
+c250b8e5,Constantine,7157843,11000947,79,126,duplex,married,True
+914de995,Blida,5927912,9912723,89,127,villa,married,True
+30b0d920,Oran,5527064,7553850,84,129,apartment,married,False
+407db3f0,Constantine,5111964,7953097,76,120,villa,married,True
+e9af0a6c,Blida,7740052,11360448,87,118,villa,divorced,True
+7ce27803,Constantine,6461060,9835597,94,143,apartment,divorced,False
+75222703,Constantine,6122600,8736340,73,109,villa,divorced,True
+6c5ebe63,Bejaia,5847276,9269545,78,130,apartment,divorced,False
+95d66938,Blida,5747928,8447356,100,155,duplex,divorced,False
+1fdb3511,Algiers,7498164,8664046,96,138,apartment,married,False
+8e0dddde,Oran,6211875,9548642,90,111,villa,married,True
+e1cc8152,Algiers,5283362,7375180,74,111,duplex,divorced,False
+c9630080,Blida,5251425,6668648,73,101,apartment,married,True
+d43d3bea,Algiers,5897141,9827577,93,138,villa,divorced,False
+22330087,Oran,7463092,9706632,78,104,villa,married,False
+53ace420,Tizi Ouzou,6770356,10666517,97,132,duplex,divorced,True
+25164a2c,Algiers,5649012,8884967,79,129,villa,married,True
+4b2e2717,Tizi Ouzou,5410543,8921556,70,90,apartment,single,False
+21971947,Algiers,7812805,11799003,93,139,villa,married,False
+ede0dd02,Tizi Ouzou,6596167,10227052,88,135,duplex,divorced,False
+0a227efb,Blida,5801255,7228733,95,143,villa,married,False
+1c95f0dd,Blida,7645452,10785477,91,138,villa,single,False
+6a84ab23,Oran,5031012,7850594,86,106,duplex,married,False
+5b02cf39,Algiers,5759877,6973560,98,136,apartment,divorced,True
+8dc57f91,Oran,5112389,8231862,83,138,apartment,divorced,False
+cfc0ec45,Bejaia,6669922,10468726,74,124,villa,married,False
+18c05477,Constantine,5665248,9248240,82,125,duplex,divorced,False
+f6c0f81a,Oran,7957496,10609486,95,130,duplex,divorced,False
+f5731680,Bejaia,5853121,8370467,95,115,duplex,divorced,False
+c1b63db8,Bejaia,7560474,10914020,75,135,villa,divorced,True
+55946192,Constantine,6025629,7763110,94,145,apartment,divorced,False
+cac7432c,Blida,6913145,9620088,76,117,villa,married,False
+a72af353,Blida,6636581,9106972,77,117,duplex,divorced,False
+efd0a4ef,Blida,7134188,9886223,96,126,villa,divorced,True
+baa969d2,Oran,7573033,11485019,84,134,villa,single,True
+94c1b7dd,Bejaia,7642766,10838198,77,118,villa,single,True
+7cc478af,Blida,6513148,9399111,80,128,apartment,single,False
+9869aa64,Algiers,7904162,9474012,96,126,apartment,married,True
+f038e285,Oran,5440766,7579702,84,139,villa,divorced,True
+6b0c96d1,Tizi Ouzou,5290847,6811019,87,111,apartment,single,True
+46618865,Constantine,7188743,9268742,81,121,duplex,single,True
+a0ee399b,Bejaia,5396799,7462929,82,131,villa,divorced,True
+721dc445,Blida,7430483,9961478,75,123,duplex,divorced,False
+1ba4b47e,Algiers,6316649,8598446,76,111,villa,married,True
+0902b480,Blida,6260774,10120727,92,142,apartment,divorced,True
+ebd4ded8,Bejaia,6332932,9945469,89,114,apartment,single,True
+75fb399d,Constantine,5576483,7499181,71,115,apartment,divorced,False
+5f61e4f0,Oran,7917749,11851688,99,121,villa,married,False
+6e5eafde,Bejaia,5122881,6546217,84,106,apartment,married,False
+dbc7079f,Oran,5444074,7169689,82,130,apartment,divorced,False
+26202f36,Constantine,7840402,8966072,88,138,apartment,divorced,False
+aa647978,Algiers,6870245,9690922,97,150,apartment,single,False
+15ca924e,Blida,7516140,8892443,99,128,duplex,married,False
+8ac081f7,Blida,5190358,8959670,83,117,duplex,married,False
+cb1977d9,Constantine,6175786,7883831,100,152,villa,single,False
+4dca3dff,Oran,5747276,7388488,99,136,villa,divorced,False
+c5efc44b,Oran,5829415,6979175,75,117,villa,divorced,False
+4c2b8e07,Blida,5295008,7325214,92,140,apartment,married,True
+d9236228,Oran,7292538,8577019,73,124,apartment,divorced,True
+da36f2f5,Oran,7430945,9055979,86,142,duplex,divorced,False
+350eca09,Oran,7229067,11130701,92,133,apartment,divorced,False
+a8da05b5,Constantine,7169135,9154720,92,140,duplex,single,False
+fbf901f5,Constantine,7529800,9187624,82,142,apartment,married,False
+818b2670,Algiers,6364165,9788754,83,125,duplex,divorced,True
+c46321a8,Tizi Ouzou,6064147,8653014,76,104,villa,married,True
+1ed71cc7,Oran,5197873,7261525,84,108,apartment,divorced,False
+c30b0553,Blida,6384761,9358289,99,141,duplex,married,True
+ea055103,Tizi Ouzou,5823587,9077836,80,121,villa,divorced,False
+03011fa5,Blida,6650312,9275068,98,130,villa,married,True
+e27e5d33,Tizi Ouzou,5473553,8401738,82,104,duplex,divorced,False
+1621d2b2,Constantine,6238431,7810172,83,108,apartment,single,False
+4201bd06,Tizi Ouzou,6857174,10312902,75,120,villa,single,True
+547e77fd,Algiers,5242869,6307125,91,111,villa,single,False
+9946229d,Bejaia,7848361,10621520,86,123,apartment,married,True
+d12ba960,Tizi Ouzou,6092382,7726580,84,131,villa,single,False
+d41f4cbe,Blida,5970180,8114090,92,144,villa,divorced,False
+8bd2a8aa,Algiers,6041028,8078042,94,132,apartment,single,False
+78ed001c,Constantine,5694300,7668662,100,121,villa,divorced,False
+947a769d,Algiers,5426195,7566140,72,123,duplex,divorced,True
+717f4782,Constantine,6533037,9093159,75,109,villa,divorced,True
+e760ac0c,Constantine,6303380,10182395,72,104,villa,single,True
+38740e72,Algiers,5111170,7094757,87,111,duplex,divorced,True
+56e76b50,Algiers,6437529,9183786,90,148,apartment,single,True
+99ace935,Constantine,7805331,11803420,96,148,apartment,single,False
+1d0575ab,Blida,5863829,8137844,78,104,duplex,divorced,True
+c27c8186,Blida,5092209,8198859,78,136,apartment,married,True
+258f6855,Constantine,7841480,10901172,71,92,duplex,married,True
+2fbf4475,Blida,7491054,8847563,77,107,villa,married,True
+56abb511,Tizi Ouzou,5642928,7141031,100,122,villa,single,True
+f88b9be1,Oran,5004738,7044525,87,132,duplex,married,True
+28b8cc53,Blida,6726331,8682708,93,117,apartment,divorced,True
+2d9e49aa,Algiers,6082451,8856435,89,140,duplex,single,True
+7ebedeee,Bejaia,5710729,8661086,82,130,duplex,divorced,True
+5820c573,Algiers,5149261,7162852,70,93,apartment,single,True
+0e67ca19,Algiers,6039917,8924038,93,139,duplex,single,False
+683172a3,Tizi Ouzou,6813433,8078296,76,133,villa,single,False
+f70f3daa,Oran,6181287,8289511,76,110,apartment,married,False
+2e16309a,Bejaia,5187746,7394489,81,123,duplex,married,False
+438ebf96,Tizi Ouzou,5817568,9324353,70,95,apartment,divorced,True
+7e31d517,Algiers,7514528,10391508,84,109,apartment,divorced,False
+5ab67de3,Algiers,5476174,6975681,81,126,duplex,married,False
+39af012d,Oran,6973863,9509843,87,144,apartment,divorced,True
+2c9623e9,Bejaia,6720078,7995254,72,95,duplex,divorced,True
+dcdfb8c6,Tizi Ouzou,5524918,6813306,73,115,duplex,divorced,True
+2e129e15,Blida,5808434,7021475,89,139,duplex,married,False
+49d4b642,Oran,5379254,8548735,90,135,apartment,married,True
+7a40e21b,Constantine,6567548,10172291,89,149,duplex,married,True
+62aee447,Algiers,7097663,10233831,73,129,apartment,single,True
+a02915b4,Bejaia,5562868,9169823,88,118,apartment,married,False
+685631ca,Constantine,5768774,7944159,91,148,apartment,divorced,False
+ce7adead,Oran,5880815,8942525,76,108,apartment,married,True
+ab062a7f,Bejaia,5166727,6995693,97,121,duplex,married,True
+f5aade58,Bejaia,5977196,7634722,83,130,apartment,married,True
+41d66242,Algiers,6915850,8652134,78,136,apartment,divorced,True
+73d561d5,Oran,7078138,10955057,95,115,villa,married,True
+4c3866d7,Bejaia,6064349,9491374,79,129,villa,divorced,False
+c6fc357e,Tizi Ouzou,7170395,10968989,75,100,apartment,single,True
+9bdccbe5,Tizi Ouzou,5282778,7518226,77,107,duplex,married,False
+b487bb01,Algiers,7373204,8460961,84,125,villa,single,True
+73f4fb12,Algiers,5941662,8463548,84,126,duplex,married,True
+73219056,Algiers,6705265,9051579,97,128,duplex,divorced,True
+ce79eb2c,Bejaia,5282172,7102811,90,114,duplex,married,False
+809020c8,Blida,6798292,7883426,98,144,villa,divorced,True
+c88cc3e0,Algiers,7675975,11449888,74,127,apartment,married,True
+69ffed43,Oran,5029554,8841190,84,123,villa,divorced,False
+36f902ee,Constantine,7505132,11161752,86,140,villa,married,False
+be443b25,Tizi Ouzou,7719432,9746648,80,128,duplex,single,True
+b929280d,Algiers,6006547,9561389,95,155,villa,single,False
+03b4ec68,Tizi Ouzou,5630391,6724199,94,116,villa,married,True
+9b0c68d8,Oran,7198268,9997715,83,117,apartment,single,False
+cb8dbc70,Oran,7733911,11556416,93,147,apartment,divorced,False
+8acc0f0a,Oran,7027644,10802699,82,107,duplex,married,False
+32e66d15,Constantine,5804847,7319947,72,116,apartment,divorced,False
+5858c568,Bejaia,5903340,8786447,80,111,villa,single,False
+5e5f92a8,Algiers,7765640,10034358,75,121,villa,married,True
+c109ed42,Oran,5867052,7459629,99,159,villa,divorced,True
+4da2bb09,Algiers,5612908,6980742,78,119,apartment,single,True
+fe8bcfc1,Constantine,5783401,7239293,70,91,apartment,single,False
+ef673856,Bejaia,6597277,7901774,84,109,duplex,divorced,False
+dc7579b9,Tizi Ouzou,5744468,6875110,70,129,duplex,single,True
+8818a4e3,Tizi Ouzou,6872344,10447881,81,119,villa,married,True
+9cbe76e6,Bejaia,5812324,7150704,97,144,apartment,married,True
+0a56c05a,Tizi Ouzou,5868511,7603444,78,122,duplex,divorced,True
+7f0aacf8,Constantine,5039897,7812290,74,116,apartment,married,True
+713d834c,Tizi Ouzou,6325706,9662449,88,112,villa,divorced,False
+644cd8d5,Constantine,5531706,6790740,74,120,duplex,married,False
+dcc79f45,Bejaia,7224953,9142983,92,143,duplex,divorced,False
+aed83a1a,Blida,7180883,10495929,80,101,apartment,divorced,False
+8c01204e,Blida,5678175,6975959,93,144,duplex,married,True
+89cdb9f3,Bejaia,5630106,6794023,100,135,villa,married,False
+1115dfdf,Constantine,6531219,10470301,84,130,duplex,married,True
+3635ffa3,Constantine,7341693,9241447,74,106,villa,married,True
+988340f2,Tizi Ouzou,7995268,11545353,99,145,apartment,married,False
+22b1cf4c,Blida,7927728,9084655,79,111,villa,married,False
+81a9d88d,Tizi Ouzou,7664476,9800743,78,99,villa,single,False
+986e22b3,Constantine,5585693,8617241,74,95,duplex,married,True
+d599252b,Blida,6797858,10421413,100,149,apartment,divorced,True
+38fd676e,Tizi Ouzou,6300521,7677062,81,132,duplex,married,False
+cee87e50,Bejaia,6315897,7769047,83,106,duplex,divorced,False
+dc3a188a,Oran,7699770,8823075,74,124,villa,single,False
+9e03c78a,Bejaia,6985119,9987837,96,146,villa,married,False
+a9eacecf,Bejaia,5368607,7277207,78,129,duplex,married,True
+b5b10723,Tizi Ouzou,6460945,8369962,81,139,duplex,divorced,False
+04af4670,Oran,6663189,8387420,79,121,duplex,married,True
+55c1e941,Tizi Ouzou,6148083,9856999,87,131,duplex,single,True
+2d09fc93,Tizi Ouzou,5602762,8794716,71,94,apartment,single,True
+6dc816de,Oran,5348293,7776990,80,137,duplex,divorced,False
+6e96bcbe,Bejaia,5349457,7559037,99,158,apartment,single,True
+7b1842f1,Bejaia,7481705,9658092,89,114,duplex,single,False
+daf36f29,Bejaia,5886964,8275808,94,134,duplex,single,False
+6ea9f1c3,Oran,7708468,10242784,91,128,duplex,married,False
+2c3ff798,Tizi Ouzou,7269245,8938495,75,107,villa,divorced,False
+6640d33b,Tizi Ouzou,7560083,10307469,93,136,duplex,single,True
+88aad987,Blida,6465017,8720085,75,132,apartment,single,True
+28e024e5,Algiers,7677100,10341904,75,103,villa,divorced,True
+0ac01617,Constantine,7482348,9261425,98,129,villa,single,True
+b912a5ea,Algiers,7589162,10861713,85,124,apartment,single,False
+70619d8f,Bejaia,7557293,8747075,97,148,duplex,divorced,False
+816c3edb,Tizi Ouzou,5674658,9035814,73,110,apartment,married,False
+12a6bcdc,Tizi Ouzou,5564355,8094641,86,132,duplex,single,False
+7d8d98d3,Algiers,5602540,9223669,89,134,duplex,married,True
+9971919e,Tizi Ouzou,5703199,8800728,72,104,villa,single,False
+9c3e0170,Blida,6740485,8339364,100,138,villa,single,True
+e587b183,Constantine,5577719,9393657,95,125,apartment,married,True
+c6176b14,Bejaia,5358891,7913308,89,139,duplex,single,False
+63a7a1ac,Blida,6441694,9382598,100,128,villa,divorced,False
+0c0223e3,Constantine,5602852,9513388,70,90,duplex,divorced,True
+3d930836,Blida,6633911,8366106,97,134,duplex,single,False
+13282271,Blida,6692293,10458650,76,106,villa,married,False
+fa01ea6d,Tizi Ouzou,7893595,11310600,97,143,apartment,married,True
+62735536,Bejaia,5657629,9634048,84,120,villa,single,False
+c62856b7,Oran,7729762,11716522,75,119,duplex,single,False
+a62fa5ac,Algiers,5069773,8560461,88,124,duplex,divorced,True
+169a2512,Oran,6734034,8668212,100,124,apartment,single,False
+744c1786,Bejaia,6072318,8802993,83,143,duplex,single,True
+a16454bc,Oran,7773484,9780447,75,109,apartment,divorced,True
+a712c19b,Bejaia,7261529,10259681,85,128,duplex,divorced,False
+12ad17b3,Tizi Ouzou,7907070,11445035,97,132,duplex,divorced,False
+34552cd7,Tizi Ouzou,6986750,8730996,78,123,villa,divorced,True
+9e827a93,Algiers,6817846,10002205,96,152,duplex,married,False
+3e7c2c14,Constantine,6985294,9020989,81,101,duplex,divorced,False
+9774f735,Bejaia,6606538,8389419,82,124,villa,single,True
+6b45b537,Tizi Ouzou,7218344,9942582,92,125,villa,married,False
+9cf982a3,Tizi Ouzou,7145389,9060350,88,116,villa,married,False
+a4776be0,Tizi Ouzou,6172557,8565693,78,102,villa,married,True
+a49d2713,Bejaia,5862630,7976799,82,129,apartment,married,False
+60931c43,Oran,5687487,7505313,73,109,apartment,divorced,True
+59fc9192,Constantine,6976503,10767652,72,103,apartment,single,False
+ec5564b2,Blida,6062971,7712514,88,144,apartment,divorced,True
+a452a700,Oran,5024814,6357130,81,105,villa,divorced,False
+01f3de41,Bejaia,5101119,7988940,71,127,duplex,married,False
+fe9de9a0,Algiers,6839619,10510470,75,108,duplex,married,False
+89a00166,Blida,7146361,8918115,97,151,villa,divorced,True
+5ccda975,Algiers,7255832,9142625,84,132,duplex,single,True
+e7f0305c,Tizi Ouzou,6998358,10598591,90,150,duplex,married,False
+7c5d096f,Algiers,6851692,9104077,70,100,villa,divorced,False
+4dba0ef8,Blida,6528439,9373443,81,108,duplex,divorced,False
+f6dd90da,Tizi Ouzou,5654036,7690538,82,134,duplex,single,False
+017f005a,Blida,6578346,7901456,90,122,apartment,married,True
+a077f29e,Bejaia,5079084,8841067,92,115,villa,single,True
+5c6969d3,Oran,6924132,10161535,90,146,duplex,single,False
+52645441,Bejaia,7612015,8865619,96,145,duplex,single,False
+c6f093fb,Blida,5917503,9252089,88,124,villa,married,True
+1340b687,Constantine,5208096,8273468,97,142,duplex,divorced,True
+9e87df38,Bejaia,6605395,10051889,81,101,duplex,single,False
+231a1e1c,Blida,5647462,6798482,99,133,duplex,single,True
+aca7140a,Oran,5420074,7308872,88,137,villa,divorced,True
+c790afbb,Oran,5848907,7700593,70,120,duplex,single,True
+82faf26a,Constantine,6728010,8379509,98,142,villa,divorced,True
+fdece039,Bejaia,7602569,10140245,99,155,villa,single,False
+08cfbd71,Tizi Ouzou,6375642,10284255,91,143,apartment,single,False
+b159badb,Oran,5962029,8250377,90,126,villa,divorced,True
+d0356ae0,Oran,6916659,8656433,93,120,villa,married,True
+80135641,Blida,6729672,10382752,91,120,villa,divorced,True
+65cdc1dc,Algiers,6436203,8715363,93,149,duplex,single,True
+316e36d2,Bejaia,6767830,7771944,79,131,villa,married,True
+899bd6e0,Bejaia,5697734,8627217,96,135,apartment,divorced,False
+fc47374b,Constantine,6410885,9952853,86,109,duplex,divorced,True
+df5824a1,Oran,5087697,7654812,77,97,duplex,married,True
+7aee441b,Tizi Ouzou,7616298,11320310,94,119,villa,single,False
+b2e7e9e2,Constantine,7671504,8788587,80,117,villa,single,False
+9c034f21,Algiers,7690604,10008040,73,106,villa,married,False
+3e2bb9f5,Oran,7155659,8662475,85,108,villa,married,True
+7cdeb2c5,Algiers,7931235,9786453,75,112,duplex,married,True
+128293e4,Bejaia,5540091,8510046,85,129,apartment,single,True
+fac2c8f7,Algiers,6699686,9189967,78,138,villa,divorced,True
+b2756e23,Oran,6363358,9979530,100,129,duplex,married,True
+dab8c8fc,Oran,6718909,10195538,84,113,villa,married,True
+f96debc4,Constantine,6311721,8235144,86,114,villa,married,False
+5ec633ed,Blida,6347380,9118878,79,100,duplex,divorced,False
+dd90b09b,Algiers,7882550,11464285,95,136,apartment,married,False
+ee66356c,Algiers,7499596,10624308,74,134,villa,married,True
+e9e8d145,Oran,5190064,8931270,76,135,apartment,single,False
+40898212,Constantine,7662871,10854291,84,144,villa,married,True
+eb1f6c06,Constantine,6063499,7097684,80,133,apartment,married,True
+4b245474,Algiers,7688486,10087002,91,114,villa,single,True
+591dafa8,Bejaia,6322112,10014660,93,118,apartment,single,False
+8ff2fbbc,Algiers,7785568,11009153,98,135,apartment,divorced,True
+76e1f4a9,Constantine,6418716,9062603,77,120,apartment,single,False
+30579845,Constantine,7836860,10836490,80,130,duplex,single,True
+acced6dc,Tizi Ouzou,6428814,9378200,87,133,villa,divorced,False
+70bf159d,Constantine,7726893,11468342,78,120,duplex,married,True
+989e6797,Oran,5749271,7380427,70,130,duplex,single,True
+e89a4fc6,Tizi Ouzou,6341139,9043968,70,116,apartment,married,False
+58c4a592,Bejaia,6627321,7926157,100,130,villa,married,False
+a066e4e5,Bejaia,6996774,10169572,94,121,apartment,single,True
+4adfc572,Constantine,5161720,8980895,82,105,apartment,single,True
+ba4652b5,Constantine,5596748,8946842,75,100,duplex,single,False
+ea7ee0c8,Oran,7844130,11120595,94,136,duplex,divorced,True
+2c0e322f,Tizi Ouzou,5198999,7993823,81,136,duplex,divorced,True
+15b62abb,Blida,5707540,8301290,71,130,apartment,divorced,False
+f762991b,Oran,7097523,9440722,97,137,villa,divorced,False
+5a35c144,Algiers,5907339,8850741,94,141,duplex,single,True
+b2bc4ff3,Constantine,7904178,9243044,82,121,duplex,married,True
+b901c03a,Blida,6675500,8781967,71,105,apartment,married,True
+5680b2a4,Constantine,6996618,8029322,78,134,duplex,single,True
+c9cd4783,Constantine,5306376,8028686,91,122,duplex,married,True
+099af1e1,Algiers,7163795,8443465,79,117,apartment,divorced,True
+27e9fc77,Blida,7287876,9960047,79,128,duplex,married,True
+36c7430b,Algiers,5456231,8272342,89,141,duplex,married,True
+84d434ba,Bejaia,5484678,8429233,90,145,apartment,divorced,True
+db9ff308,Oran,5186821,8510939,84,129,apartment,married,False
+ded525be,Constantine,7493023,10449950,79,118,apartment,married,True
+4ac27b0a,Bejaia,7487776,11237293,95,149,apartment,single,True
+6b1954c5,Oran,6854581,9197855,84,144,duplex,divorced,False
+c8e96f6e,Algiers,6145123,9347633,91,118,apartment,single,True
+c5bd4906,Blida,5815544,7300887,97,130,villa,married,True
+bfe2a536,Oran,5984342,8750545,82,108,villa,single,False
+7a95f974,Constantine,7866282,9400394,94,137,apartment,married,True
+6530bace,Blida,6563503,10232805,91,149,duplex,single,True
+7b4d1d7c,Oran,5100837,8200705,94,151,duplex,married,False
+df049939,Algiers,6781810,9904337,88,148,duplex,married,True
+d28335bf,Constantine,6855818,9391777,97,147,apartment,single,False
+0f12d369,Tizi Ouzou,6819590,8661107,89,148,apartment,single,True
+7ffc9ab0,Algiers,7751620,11116411,72,127,villa,divorced,True
+ffac38f9,Algiers,5831682,7684771,84,144,apartment,married,False
+6f98ec8c,Tizi Ouzou,6813092,10233350,72,120,apartment,married,True
+ba7df120,Constantine,7548844,10907475,97,133,villa,married,True
+8b0726ee,Oran,7301630,8428838,98,129,villa,single,True
+8e265ea9,Blida,6223648,8237554,71,129,apartment,married,True
+a96adcdf,Bejaia,5606496,9160522,93,142,apartment,divorced,False
+0ddb6ecf,Tizi Ouzou,6314959,8382002,78,104,duplex,divorced,True
+1809d0ba,Algiers,7126762,9814352,78,118,villa,single,True
+1d446d6a,Oran,5483608,6571765,84,117,villa,married,True
+d0c549c2,Algiers,6964857,9760970,83,103,villa,divorced,True
+c7dec038,Algiers,5994345,8188869,79,137,apartment,single,True
+21610bf7,Oran,6156713,7809052,74,105,villa,divorced,False
+3dd1d8d5,Constantine,5266774,8143730,73,131,villa,married,True
+d91424e5,Blida,7962118,11485706,72,106,villa,divorced,True
+a8d7b5d2,Bejaia,7273487,9128779,85,137,apartment,single,True
+e7bb3026,Oran,6117838,9154287,71,108,villa,married,False
+f7b7dff8,Oran,7805705,11615568,80,131,duplex,married,False
+5d4133f6,Constantine,7956233,10251405,83,128,villa,married,False
+1718f965,Tizi Ouzou,7663689,10348392,76,107,villa,married,False
+68f2dcdd,Algiers,6591286,7809408,81,118,duplex,divorced,False
+c3ef074a,Oran,6384986,9738973,98,144,apartment,single,False
+3f4d74f9,Tizi Ouzou,6890523,10151509,92,135,villa,married,False
+a7227497,Tizi Ouzou,5385622,7597137,88,136,duplex,divorced,False
+d7e01b8c,Constantine,7509797,10500149,87,115,duplex,married,True
+b40d77d7,Constantine,5443597,8192048,92,115,villa,single,True
+c2ed0457,Blida,6055202,7960249,86,126,duplex,single,False
+76f7f731,Tizi Ouzou,6824561,9664350,79,107,duplex,married,True
+f96f7ff8,Blida,5685385,8851475,91,112,villa,divorced,False
+db09131f,Oran,5923944,7224762,71,103,apartment,divorced,True
+75068b5f,Oran,7952845,9488855,98,140,apartment,single,False
+34602641,Constantine,6782884,10262217,80,100,apartment,single,False
+9b17e88d,Bejaia,7725333,11089078,95,123,duplex,divorced,False
+44845e19,Oran,5410602,9389490,73,105,apartment,married,True
+c5ed536f,Bejaia,6464605,9974919,96,127,apartment,divorced,False
+fc16cc42,Blida,6160182,8568305,97,144,apartment,married,True
+fcc5e484,Oran,6039918,9728220,96,122,apartment,single,False
+dbbe73c1,Tizi Ouzou,7159516,8931093,87,124,apartment,married,False
+15ae1588,Oran,5882789,8243084,78,130,apartment,divorced,True
+3a8c1475,Oran,6702130,9615444,77,110,apartment,married,True
+3844aef7,Oran,6870869,9516655,84,107,villa,divorced,False
+2c137429,Oran,5685488,9316790,81,109,duplex,single,True
+e5c10dc6,Algiers,5958344,8784959,80,104,duplex,single,False
+541e3229,Constantine,5514449,8408618,79,108,villa,divorced,False
+daf32e15,Blida,6214596,8737500,86,145,apartment,divorced,False
+5a5c1641,Oran,5546268,7495317,79,107,apartment,divorced,True
+57c6973a,Blida,7959717,9190264,92,144,villa,married,True
+51752f35,Constantine,6569223,9605848,77,97,duplex,married,True
+49477151,Oran,6783678,7796662,98,121,duplex,married,True
+ee7cde6e,Tizi Ouzou,7178578,10231328,96,116,villa,divorced,True
+a65ea5d2,Oran,6764978,8054827,84,136,apartment,divorced,False
+168cc156,Tizi Ouzou,5809945,8471296,79,99,villa,married,True
+6f2917f2,Bejaia,7603081,10227611,99,153,villa,married,True
+7fa6d3f8,Blida,7638033,11095100,83,109,villa,single,True
+e05d2f99,Oran,6844913,9944899,91,121,villa,married,False
+02371d2a,Constantine,7859923,11510173,71,96,villa,married,False
+729a2782,Tizi Ouzou,7755647,9089468,97,135,duplex,married,False
+cf5b6ef7,Blida,6431485,8278211,78,132,duplex,single,False
+a23727c1,Tizi Ouzou,6242871,8485579,75,96,duplex,single,False
+d73ef15f,Blida,6850888,7853970,92,113,apartment,married,True
+d0879361,Blida,5573393,8485981,86,128,villa,divorced,True
+0561a491,Oran,6214314,10094474,74,134,villa,married,True
+7934ade7,Oran,5199324,6709948,70,91,duplex,single,True
+f14976c5,Tizi Ouzou,5174408,7214422,97,131,duplex,married,False
+b5ce5b35,Algiers,6718175,9446714,78,103,apartment,single,True
+ce0c4dd0,Constantine,7384550,8748886,79,104,duplex,divorced,True
+3c526503,Constantine,7416342,8750315,87,109,villa,single,True
+e5ce0d2b,Constantine,5203879,8058233,71,117,duplex,married,False
+d4134982,Tizi Ouzou,5559146,8419831,82,120,apartment,single,False
+56793f9e,Tizi Ouzou,6671681,8680054,95,130,duplex,married,True
+0a1f8546,Tizi Ouzou,5792524,7192153,92,127,apartment,married,False
+a15b22ca,Bejaia,6134610,8599411,83,112,apartment,single,False
+b1b6e74b,Blida,6056647,9541080,71,103,duplex,divorced,True
+b34761bb,Bejaia,6070424,8674694,77,136,duplex,divorced,False
+d6a531a3,Bejaia,5187732,8805791,77,97,apartment,single,True
+35a2ab08,Constantine,6488252,7493605,78,100,apartment,married,True
+51959169,Blida,7427173,11125787,75,126,villa,divorced,True
+4264a66e,Bejaia,6778187,9486304,75,104,villa,single,False
+14e8c7e7,Blida,6217029,8028122,75,133,duplex,divorced,True

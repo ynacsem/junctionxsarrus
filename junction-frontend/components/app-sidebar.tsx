@@ -68,12 +68,12 @@ const items = [
 
 const secondItems = [
   {
-    title: "Predict Clients",
+    title: "Recommend Contacts",
     url: "/dashboard/properties/predict-clients", // Predicting clients for properties
     icon: TrendingUpDown, // An icon representing prediction or analysis
   },
   {
-    title: "Predict Properties",
+    title: "Recommend Properties",
     url: "/dashboard/clients/predict-properties", // Predicting properties for clients
     icon: TrendingUpDown, // An icon representing properties
   },

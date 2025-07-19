@@ -94,7 +94,7 @@ export function AppSidebar() {
       <SidebarContent>
         <SidebarGroup>
           <SidebarGroupLabel className="mb-20 text-xl mt-4">
-            Dari
+            Dyarcom
           </SidebarGroupLabel>
           <SidebarGroupContent className="mb-5">
             <SidebarMenu>
